@@ -1,0 +1,17 @@
+{
+  "id": "RID-183",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "गोरा लोहानि हाथाइ, बिफां आथाइ; हाग्रानि गिदिर बिफांफोरखौ दानस्रोयो",
+  "question_roman": "Gora lohani hathai, bifang athai; hagramani gidir bifangforkhw dansrwyw",
+  "question_hi": "लोहे की चौड़ी भारी कुल्हाड़ी, मजबूत लकड़ी का डंडा; घने जंगल के विशाल पेड़ों को काट गिराती है। बताओ क्या?",
+  "question_en": "Heavy wedge of forged steel wedged on an ash handle, felling forest giants for homestead timber. What is it?",
+  "answer_bodo": "खुराल",
+  "answer_roman": "Khural",
+  "answer_hi": "कुल्हाड़ी / परशु",
+  "answer_en": "Axe",
+  "cultural_note": "Used for clearing timber.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

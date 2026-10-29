@@ -1,4 +1,10 @@
-"""Historical public domain books loader from archive.org for bhasha_lib."""
+"""Historical public domain books loader from archive.org for bhasha_lib.
+
+💡 FILE INSIGHT & PURPOSE:
+Ingests historical 19th-century public-domain books from the Internet Archive (archive.org).
+Provides built-in presets (Anderson 1895, Endle 1884), automated OCR text downloading,
+and direct piping into the text extraction and frequency counting pipeline.
+"""
 
 from __future__ import annotations
 
@@ -52,6 +58,36 @@ HISTORICAL_BOOKS: dict[str, BookPreset] = {
         identifier="outlinegrammarof00endlrich",
         text_filename="outlinegrammarof00endlrich_djvu.txt",
         url="https://archive.org/details/outlinegrammarof00endlrich",
+    ),
+    "endle_1911": BookPreset(
+        preset_id="endle_1911",
+        title="The Kacháris",
+        author="Sidney Endle",
+        year=1911,
+        license="public_domain",
+        identifier="in.ernet.dli.2015.228431",
+        text_filename="2015.228431.The-Kacharis_djvu.txt",
+        url="https://archive.org/details/in.ernet.dli.2015.228431",
+    ),
+    "hodgson_1847": BookPreset(
+        preset_id="hodgson_1847",
+        title="Essay the First: On the Kocch, Bódo and Dhimál Tribes",
+        author="Brian Houghton Hodgson",
+        year=1847,
+        license="public_domain",
+        identifier="dli.ministry.01968",
+        text_filename="20849.176.E.7_djvu.txt",
+        url="https://archive.org/details/dli.ministry.01968",
+    ),
+    "grierson_1903": BookPreset(
+        preset_id="grierson_1903",
+        title="Linguistic Survey of India: Specimens of the Bodo, Naga and Kachin Groups (Vol. III, Pt. II)",
+        author="George A. Grierson",
+        year=1903,
+        license="public_domain",
+        identifier="in.ernet.dli.2015.107131",
+        text_filename="2015.107131.Linguistic-Survery-Of-India-Specimens-Of-The-Bodo-Naga-And-Kachin-Groups-Vol3-Pt2_djvu.txt",
+        url="https://archive.org/details/in.ernet.dli.2015.107131",
     ),
 }
 

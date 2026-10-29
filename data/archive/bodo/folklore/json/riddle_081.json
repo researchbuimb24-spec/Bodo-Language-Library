@@ -1,0 +1,17 @@
+{
+  "id": "RID-081",
+  "theme": "fauna_animals",
+  "theme_title_en": "Theme 3: Fauna, Wild Animals, Aquatic Creatures & Birds",
+  "theme_title_hi": "विषय 3: वन्यजीव, पशु, पक्षी और जलचर",
+  "theme_title_bodo": "थिम 3: जिव-जुनार, दाव-मैदे आरो ना",
+  "question_bodo": "फिसा बिरग्रा, हरआव खुनायाव सोदोब खालामो; सौबा गोबा खामो",
+  "question_roman": "Fisa birgra, horao khunayao swdwb khalamw; swba gwba khamw",
+  "question_hi": "नन्हा सा उड़ने वाला जीव, रात को कान के पास भिनभिनाता है; काट ले तो खुजली और जलन होती है। बताओ क्या?",
+  "question_en": "Tiny winged singer buzzing near ears in the dark; leaves an itching red welt behind. What is it?",
+  "answer_bodo": "गोंगार",
+  "answer_roman": "Gonggar",
+  "answer_hi": "मच्छर",
+  "answer_en": "Mosquito",
+  "cultural_note": "Everyday nuisance guarded against with smoke.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

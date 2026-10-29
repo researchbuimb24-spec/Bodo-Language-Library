@@ -1,0 +1,17 @@
+{
+  "id": "RID-169",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "अवा जालि, हाबनो मोजां, ओंखारनो हाया; नाफोरा गावनो हाबफैयो",
+  "question_roman": "Oa jali, habnw mwjang, onkharnw haya; nafora gaono habfwyw",
+  "question_hi": "बांस का ऐसा चतुर जाल जिसमें मछली अंदर तो आसानी से चली जाए, पर बाहर कभी नहीं निकल सकती। बताओ क्या?",
+  "question_en": "Woven bamboo valve trap allowing river fish to swim in freely but barring their retreat. What is it?",
+  "answer_bodo": "जोखाय",
+  "answer_roman": "Zokhai",
+  "answer_hi": "जोखाय (मछली पकड़ने का वाल्व जाल)",
+  "answer_en": "Valve Fish Trap (Zokhai)",
+  "cultural_note": "Placed in flowing canal currents.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

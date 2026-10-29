@@ -1,0 +1,86 @@
+{
+  "title": "Boro Mahabharata: The Great Epic of the Bharatas in Bodo",
+  "epic": "Mahabharata (महाभारत)",
+  "translators": "Priyadini Brahma (Miloudw Mahabharata / ABILAC) & Publication Board Assam (Katha-Mahabharata)",
+  "structure": "Eighteen Parvas (अष्टादश पर्व)",
+  "parvas": [
+    {
+      "parva": "आदि पर्व (Adi Parva)",
+      "summary": "कुरु हारिनि जोनोम, पाण्डब आरो कौरबफोरनि उन्दै बैसो, द्रौपदीनि स्वयंवर।"
+    },
+    {
+      "parva": "सभा पर्व (Sabha Parva)",
+      "summary": "इन्द्रप्रस्थ लुनाय, राजसूय यज्ञ, आरो युधिष्ठिरनि जुवा गेलेनाय (द्यूत क्रीड़ा)।"
+    },
+    {
+      "parva": "वन पर्व (Vana Parva)",
+      "summary": "पाण्डबफोरनि जिब्रै बोसोरनि हाग्रामा जीवन, यक्ष-युधिष्ठिर संवाद।"
+    },
+    {
+      "parva": "विराट पर्व (Virata Parva)",
+      "summary": "विराट राजानि नआव पाण्डबफोरनि गासै बोसोरसे गोमानानै थानाय (अज्ञातवास)।"
+    },
+    {
+      "parva": "उद्योग पर्व (Udyoga Parva)",
+      "summary": "दाओहानि थाखाय सांजिनाय, कृष्णनि गोजोन रादाब (शान्तिदूत) दैथायनाय।"
+    },
+    {
+      "parva": "भीष्म पर्व (Bhishma Parva)",
+      "summary": "कुरुक्षेत्र दाओहा जागायनाय, कुरुक्षेत्रनि पाहाडाव कृष्णनि श्रीमद्भगवद्गीता उपदेश।"
+    },
+    {
+      "parva": "द्रोण पर्व (Drona Parva)",
+      "summary": "द्रोणाचार्यनि दाओहा सालायनाय, चक्रव्यूहआव अभिमन्युनि जिउ गोमानाय।"
+    },
+    {
+      "parva": "कर्ण पर्व (Karna Parva)",
+      "summary": "कर्णनि गिदिर सेनापति जानाय, अर्जुन आरो कर्णनि गेजेराव अखाफोर बादि दाओहा।"
+    },
+    {
+      "parva": "शल्य पर्व (Shalya Parva)",
+      "summary": "शल्यनि दाओहा, दुर्योधननि गदा दाओहा आरो पाण्डबफोरनि देरहासार जानाय।"
+    },
+    {
+      "parva": "सौप्तिक पर्व (Sauptika Parva)",
+      "summary": "अश्वत्थामा द्वारा हरनि समाव पाण्डब छाउनियाव गाग्लोबनाय।"
+    },
+    {
+      "parva": "स्त्री पर्व (Stri Parva)",
+      "summary": "गांधारी आरो कौरब हिनजावफोरनि दाओहा गेबेंआव गाबनाय।"
+    },
+    {
+      "parva": "शान्ति पर्व (Shanti Parva)",
+      "summary": "भीष्मपितामह द्वारा युधिष्ठिरनो राजधर्म आरो मोक्षधर्मनि गिदिर उपदेश।"
+    },
+    {
+      "parva": "अनुशासन पर्व (Anushasana Parva)",
+      "summary": "दान, धर्म आरो सदाचारनि नियमफोर, भीष्मनि स्वर्गारोहण।"
+    },
+    {
+      "parva": "अश्वमेधिक पर्व (Ashvamedhika Parva)",
+      "summary": "युधिष्ठिरनि अश्वमेध यज्ञ सालायनाय।"
+    },
+    {
+      "parva": "आश्रमवासिक पर्व (Ashramavasika Parva)",
+      "summary": "धृतराष्ट्र, गांधारी आरो कुन्तीनि हाग्रामा आश्रमआव थांनाय।"
+    },
+    {
+      "parva": "मौसल पर्व (Mausala Parva)",
+      "summary": "यदुकुलनि गोमानाय आरो द्वारका नगरी लैथोआव हाबलांनाय।"
+    },
+    {
+      "parva": "महाप्रस्थानिक पर्व (Mahaprasthanika Parva)",
+      "summary": "पाण्डबफोरनि हिमालय हाजो सायाव स्वर्ग दावबायनाय।"
+    },
+    {
+      "parva": "स्वर्गारोहण पर्व (Svargarohana Parva)",
+      "summary": "युधिष्ठिरनि स्वर्गाव सौफैनाय आरो गासै बिदा-फंबायफोरखौ मोन्नाय।"
+    }
+  ],
+  "gita_discourse": {
+    "title": "Krishna's Eternal Message to Arjuna (Bhishma Parva)",
+    "bodo_dev": "खामानियावसो नोंहा मोनथाय दं पार्थ, फिथायाव नङा,\nदाओहानि हाथायाव गिनाय गैयै खालामदो नोंनि गोसोखौ।\nजिउआ गोमानाय गैया, सोलेरसो सोलायो,\nधोरमोनि दाओहायाव देरहासार जादो नों अर्जुन।",
+    "bodo_rom": "Khamaniyaosw nwhnha mwnthay dwng Partha, fithayao nwnga,\nDaohani hathayao ginay gwywi khalamdo nwhnni gwsokhwo.\nJiua gwmanay gwiya, swlersw swlayw,\nDhormoni daohayao derhasar jado nwhn Arjun.",
+    "english": "Thy entitlement is strictly to righteous action, O Arjuna, never to its fruits;\nPurge thy heart of doubt upon this field of sacred duty.\nThe soul dieth not; only the mortal frame casteth off its garments,\nRise, steadfast warrior, and triumph in this battle for cosmic truth."
+  }
+}

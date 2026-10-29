@@ -1,4 +1,10 @@
-"""Language configuration parser and dataclasses for bhasha_lib."""
+"""Language configuration parser and dataclasses for bhasha_lib.
+
+💡 FILE INSIGHT & PURPOSE:
+Loads and validates language YAML files (`bodo.yaml`).
+Defines the `LanguageConfig` dataclass storing language name, ISO code (`brx`), target script,
+and Unicode boundary ranges to parameterize tokenizers and linguistic validators dynamically.
+"""
 
 from __future__ import annotations
 

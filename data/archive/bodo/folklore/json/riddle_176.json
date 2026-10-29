@@ -1,0 +1,17 @@
+{
+  "id": "RID-176",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "सननि मानसि, हादानि खोखोर; दावफोरखौ गिस्रिहोयो",
+  "question_roman": "Sonni mansi, hadani khwkhwr; daoforkhw gisrihwyw",
+  "question_hi": "पुआल का बना पुतला, सिर पर मटका रखा है; खेतों में खड़ा रहकर चिड़ियों और जानवरों को डराता है। बताओ क्या?",
+  "question_en": "Straw-stuffed sentinel wearing an earthenware pot hat, standing in ripening fields to frighten birds. What is it?",
+  "answer_bodo": "हाग्रानि मानसे / दाव-गिस्रिहोयग्रा",
+  "answer_roman": "Hagrani manse / Dao-gisrihwigra",
+  "answer_hi": "बिजूका / डरावना पुतला",
+  "answer_en": "Scarecrow",
+  "cultural_note": "Protects crops without weapons.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

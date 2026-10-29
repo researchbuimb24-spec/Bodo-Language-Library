@@ -1,0 +1,10002 @@
+[
+  {
+    "word": "be",
+    "roman": null,
+    "freq": 5642,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "the",
+    "roman": null,
+    "freq": 4733,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "no",
+    "roman": null,
+    "freq": 2719,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "of",
+    "roman": null,
+    "freq": 2555,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "do",
+    "roman": null,
+    "freq": 1909,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "to",
+    "roman": null,
+    "freq": 1826,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "and",
+    "roman": null,
+    "freq": 1782,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "in",
+    "roman": null,
+    "freq": 1455,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "man",
+    "roman": null,
+    "freq": 1442,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "is",
+    "roman": null,
+    "freq": 1091,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "assam",
+    "roman": null,
+    "freq": 1086,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bodo",
+    "roman": null,
+    "freq": 1034,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nang",
+    "roman": null,
+    "freq": 788,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ang",
+    "roman": null,
+    "freq": 767,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "na",
+    "roman": null,
+    "freq": 713,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ma",
+    "roman": null,
+    "freq": 656,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bengal",
+    "roman": null,
+    "freq": 628,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "as",
+    "roman": null,
+    "freq": 593,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bo",
+    "roman": null,
+    "freq": 588,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mi",
+    "roman": null,
+    "freq": 530,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "are",
+    "roman": null,
+    "freq": 514,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tlie",
+    "roman": null,
+    "freq": 508,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ditto",
+    "roman": null,
+    "freq": 506,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "this",
+    "roman": null,
+    "freq": 502,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "by",
+    "roman": null,
+    "freq": 469,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "garos",
+    "roman": null,
+    "freq": 469,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "that",
+    "roman": null,
+    "freq": 467,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "it",
+    "roman": null,
+    "freq": 464,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "garo",
+    "roman": null,
+    "freq": 457,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "la",
+    "roman": null,
+    "freq": 450,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ni",
+    "roman": null,
+    "freq": 432,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ahom",
+    "roman": null,
+    "freq": 430,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "with",
+    "roman": null,
+    "freq": 419,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "for",
+    "roman": null,
+    "freq": 413,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "naga",
+    "roman": null,
+    "freq": 391,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "brahmaputra",
+    "roman": null,
+    "freq": 387,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kachari",
+    "roman": null,
+    "freq": 382,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "or",
+    "roman": null,
+    "freq": 380,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ha",
+    "roman": null,
+    "freq": 378,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hut",
+    "roman": null,
+    "freq": 365,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "he",
+    "roman": null,
+    "freq": 362,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "assamese",
+    "roman": null,
+    "freq": 356,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ba",
+    "roman": null,
+    "freq": 355,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "raja",
+    "roman": null,
+    "freq": 353,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "beaten",
+    "roman": null,
+    "freq": 352,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bi",
+    "roman": null,
+    "freq": 352,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ho",
+    "roman": null,
+    "freq": 352,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vo",
+    "roman": null,
+    "freq": 349,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tho",
+    "roman": null,
+    "freq": 347,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "god",
+    "roman": null,
+    "freq": 335,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "on",
+    "roman": null,
+    "freq": 335,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ne",
+    "roman": null,
+    "freq": 330,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "not",
+    "roman": null,
+    "freq": 327,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "his",
+    "roman": null,
+    "freq": 326,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "od",
+    "roman": null,
+    "freq": 325,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bî",
+    "roman": null,
+    "freq": 324,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "which",
+    "roman": null,
+    "freq": 322,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ki",
+    "roman": null,
+    "freq": 319,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "at",
+    "roman": null,
+    "freq": 316,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ârù",
+    "roman": null,
+    "freq": 316,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "da",
+    "roman": null,
+    "freq": 314,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "reflex",
+    "roman": null,
+    "freq": 307,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "excl",
+    "roman": null,
+    "freq": 304,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "se",
+    "roman": null,
+    "freq": 290,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "but",
+    "roman": null,
+    "freq": 286,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivation",
+    "roman": null,
+    "freq": 278,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "from",
+    "roman": null,
+    "freq": 277,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mai",
+    "roman": null,
+    "freq": 277,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ai",
+    "roman": null,
+    "freq": 275,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "burmese",
+    "roman": null,
+    "freq": 272,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sa",
+    "roman": null,
+    "freq": 269,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thd",
+    "roman": null,
+    "freq": 268,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ahoms",
+    "roman": null,
+    "freq": 266,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "darrang",
+    "roman": null,
+    "freq": 265,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bamboo",
+    "roman": null,
+    "freq": 260,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "one",
+    "roman": null,
+    "freq": 260,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rupees",
+    "roman": null,
+    "freq": 257,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kamrup",
+    "roman": null,
+    "freq": 249,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "âng",
+    "roman": null,
+    "freq": 247,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "was",
+    "roman": null,
+    "freq": 246,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "di",
+    "roman": null,
+    "freq": 243,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "koch",
+    "roman": null,
+    "freq": 242,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ao",
+    "roman": null,
+    "freq": 240,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nai",
+    "roman": null,
+    "freq": 240,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "some",
+    "roman": null,
+    "freq": 240,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cannot",
+    "roman": null,
+    "freq": 239,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhimal",
+    "roman": null,
+    "freq": 239,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "their",
+    "roman": null,
+    "freq": 238,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aryan",
+    "roman": null,
+    "freq": 237,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "they",
+    "roman": null,
+    "freq": 237,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "causal",
+    "roman": null,
+    "freq": 236,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "le",
+    "roman": null,
+    "freq": 235,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "you",
+    "roman": null,
+    "freq": 235,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thyself",
+    "roman": null,
+    "freq": 229,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inhabitants",
+    "roman": null,
+    "freq": 227,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tbe",
+    "roman": null,
+    "freq": 227,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "have",
+    "roman": null,
+    "freq": 224,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bungnaise",
+    "roman": null,
+    "freq": 220,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lakhimpur",
+    "roman": null,
+    "freq": 218,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "caste",
+    "roman": null,
+    "freq": 217,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cachar",
+    "roman": null,
+    "freq": 210,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "angami",
+    "roman": null,
+    "freq": 209,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kacharis",
+    "roman": null,
+    "freq": 209,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "de",
+    "roman": null,
+    "freq": 207,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lo",
+    "roman": null,
+    "freq": 200,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "zang",
+    "roman": null,
+    "freq": 199,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ke",
+    "roman": null,
+    "freq": 198,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "an",
+    "roman": null,
+    "freq": 194,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "all",
+    "roman": null,
+    "freq": 193,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mu",
+    "roman": null,
+    "freq": 193,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nowgong",
+    "roman": null,
+    "freq": 193,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "imperative",
+    "roman": null,
+    "freq": 191,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "specimens",
+    "roman": null,
+    "freq": 189,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kocch",
+    "roman": null,
+    "freq": 186,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ek",
+    "roman": null,
+    "freq": 182,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bara",
+    "roman": null,
+    "freq": 181,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "may",
+    "roman": null,
+    "freq": 180,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "li",
+    "roman": null,
+    "freq": 179,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "there",
+    "roman": null,
+    "freq": 179,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dang",
+    "roman": null,
+    "freq": 177,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hindi",
+    "roman": null,
+    "freq": 177,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "expedition",
+    "roman": null,
+    "freq": 176,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nu",
+    "roman": null,
+    "freq": 176,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "when",
+    "roman": null,
+    "freq": 176,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "so",
+    "roman": null,
+    "freq": 175,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "these",
+    "roman": null,
+    "freq": 175,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "being",
+    "roman": null,
+    "freq": 174,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mo",
+    "roman": null,
+    "freq": 174,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "will",
+    "roman": null,
+    "freq": 174,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "very",
+    "roman": null,
+    "freq": 173,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nung",
+    "roman": null,
+    "freq": 172,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "said",
+    "roman": null,
+    "freq": 172,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aro",
+    "roman": null,
+    "freq": 171,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wo",
+    "roman": null,
+    "freq": 170,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "asiatic",
+    "roman": null,
+    "freq": 169,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "feast",
+    "roman": null,
+    "freq": 169,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "muhammadans",
+    "roman": null,
+    "freq": 169,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "conj",
+    "roman": null,
+    "freq": 168,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "has",
+    "roman": null,
+    "freq": 167,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "him",
+    "roman": null,
+    "freq": 167,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "affix",
+    "roman": null,
+    "freq": 164,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "calcutta",
+    "roman": null,
+    "freq": 164,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hannânai",
+    "roman": null,
+    "freq": 164,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hai",
+    "roman": null,
+    "freq": 162,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kols",
+    "roman": null,
+    "freq": 161,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bengali",
+    "roman": null,
+    "freq": 156,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "phâre",
+    "roman": null,
+    "freq": 156,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "peculiar",
+    "roman": null,
+    "freq": 155,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "participle",
+    "roman": null,
+    "freq": 153,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cha",
+    "roman": null,
+    "freq": 152,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "other",
+    "roman": null,
+    "freq": 150,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jong",
+    "roman": null,
+    "freq": 147,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bîkhô",
+    "roman": null,
+    "freq": 146,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nagahs",
+    "roman": null,
+    "freq": 146,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "caret",
+    "roman": null,
+    "freq": 145,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "paddy",
+    "roman": null,
+    "freq": 145,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "beaunù",
+    "roman": null,
+    "freq": 142,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "what",
+    "roman": null,
+    "freq": 142,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kashmir",
+    "roman": null,
+    "freq": 141,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eaten",
+    "roman": null,
+    "freq": 140,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tlu",
+    "roman": null,
+    "freq": 140,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "anga",
+    "roman": null,
+    "freq": 139,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "iu",
+    "roman": null,
+    "freq": 138,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "owing",
+    "roman": null,
+    "freq": 137,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bai",
+    "roman": null,
+    "freq": 135,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivators",
+    "roman": null,
+    "freq": 135,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "infinitive",
+    "roman": null,
+    "freq": 135,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "brai",
+    "roman": null,
+    "freq": 134,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "two",
+    "roman": null,
+    "freq": 134,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "used",
+    "roman": null,
+    "freq": 134,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhimdl",
+    "roman": null,
+    "freq": 133,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ua",
+    "roman": null,
+    "freq": 133,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "braiâ",
+    "roman": null,
+    "freq": 132,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "song",
+    "roman": null,
+    "freq": 132,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jo",
+    "roman": null,
+    "freq": 131,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pu",
+    "roman": null,
+    "freq": 131,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dalton",
+    "roman": null,
+    "freq": 130,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "muhammadan",
+    "roman": null,
+    "freq": 130,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hy",
+    "roman": null,
+    "freq": 129,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "oi",
+    "roman": null,
+    "freq": 129,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dong",
+    "roman": null,
+    "freq": 128,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jaintia",
+    "roman": null,
+    "freq": 127,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "labourers",
+    "roman": null,
+    "freq": 127,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "preterite",
+    "roman": null,
+    "freq": 127,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sibsagar",
+    "roman": null,
+    "freq": 126,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "uncertain",
+    "roman": null,
+    "freq": 126,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "intr",
+    "roman": null,
+    "freq": 125,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tai",
+    "roman": null,
+    "freq": 125,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fled",
+    "roman": null,
+    "freq": 124,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mikir",
+    "roman": null,
+    "freq": 123,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "offences",
+    "roman": null,
+    "freq": 123,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "reign",
+    "roman": null,
+    "freq": 123,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivated",
+    "roman": null,
+    "freq": 122,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dau",
+    "roman": null,
+    "freq": 122,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "verb",
+    "roman": null,
+    "freq": 122,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dai",
+    "roman": null,
+    "freq": 121,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gohain",
+    "roman": null,
+    "freq": 121,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "her",
+    "roman": null,
+    "freq": 121,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "neighbours",
+    "roman": null,
+    "freq": 121,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "who",
+    "roman": null,
+    "freq": 121,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "asam",
+    "roman": null,
+    "freq": 120,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dravidian",
+    "roman": null,
+    "freq": 119,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "its",
+    "roman": null,
+    "freq": 119,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "labour",
+    "roman": null,
+    "freq": 119,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "phukan",
+    "roman": null,
+    "freq": 119,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "primitive",
+    "roman": null,
+    "freq": 119,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bu",
+    "roman": null,
+    "freq": 118,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kachdri",
+    "roman": null,
+    "freq": 118,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "linguistic",
+    "roman": null,
+    "freq": 118,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sâse",
+    "roman": null,
+    "freq": 118,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "them",
+    "roman": null,
+    "freq": 118,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhimél",
+    "roman": null,
+    "freq": 117,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gauhati",
+    "roman": null,
+    "freq": 117,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "indicative",
+    "roman": null,
+    "freq": 117,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mâ",
+    "roman": null,
+    "freq": 117,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sanskrit",
+    "roman": null,
+    "freq": 117,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "participles",
+    "roman": null,
+    "freq": 116,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pdli",
+    "roman": null,
+    "freq": 116,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "plough",
+    "roman": null,
+    "freq": 116,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tibeto-burman",
+    "roman": null,
+    "freq": 116,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "naise",
+    "roman": null,
+    "freq": 115,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pingko",
+    "roman": null,
+    "freq": 115,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "syllable",
+    "roman": null,
+    "freq": 115,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "would",
+    "roman": null,
+    "freq": 115,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pato",
+    "roman": null,
+    "freq": 114,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rupee",
+    "roman": null,
+    "freq": 114,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tj",
+    "roman": null,
+    "freq": 114,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ami",
+    "roman": null,
+    "freq": 113,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ceremonies",
+    "roman": null,
+    "freq": 113,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tliat",
+    "roman": null,
+    "freq": 113,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "word",
+    "roman": null,
+    "freq": 113,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ji",
+    "roman": null,
+    "freq": 112,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "more",
+    "roman": null,
+    "freq": 112,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aborigines",
+    "roman": null,
+    "freq": 111,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hotno",
+    "roman": null,
+    "freq": 111,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "if",
+    "roman": null,
+    "freq": 111,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khan",
+    "roman": null,
+    "freq": 111,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cock",
+    "roman": null,
+    "freq": 110,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "form",
+    "roman": null,
+    "freq": 110,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "servants",
+    "roman": null,
+    "freq": 110,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "then",
+    "roman": null,
+    "freq": 110,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bînî",
+    "roman": null,
+    "freq": 109,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hom",
+    "roman": null,
+    "freq": 109,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hos",
+    "roman": null,
+    "freq": 109,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tha",
+    "roman": null,
+    "freq": 109,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "obâsù",
+    "roman": null,
+    "freq": 108,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "see",
+    "roman": null,
+    "freq": 108,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sylhet",
+    "roman": null,
+    "freq": 108,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "servant",
+    "roman": null,
+    "freq": 107,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "much",
+    "roman": null,
+    "freq": 106,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ning",
+    "roman": null,
+    "freq": 106,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "brahmans",
+    "roman": null,
+    "freq": 105,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "konu",
+    "roman": null,
+    "freq": 105,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "unau",
+    "roman": null,
+    "freq": 104,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vocabularies",
+    "roman": null,
+    "freq": 104,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bis",
+    "roman": null,
+    "freq": 103,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vayu",
+    "roman": null,
+    "freq": 103,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hinduism",
+    "roman": null,
+    "freq": 102,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "oa",
+    "roman": null,
+    "freq": 102,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pili",
+    "roman": null,
+    "freq": 102,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aru",
+    "roman": null,
+    "freq": 101,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deities",
+    "roman": null,
+    "freq": 101,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mdng",
+    "roman": null,
+    "freq": 101,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "people",
+    "roman": null,
+    "freq": 101,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "way",
+    "roman": null,
+    "freq": 101,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hodgson",
+    "roman": null,
+    "freq": 100,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kho",
+    "roman": null,
+    "freq": 100,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khô",
+    "roman": null,
+    "freq": 100,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hu",
+    "roman": null,
+    "freq": 99,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kha",
+    "roman": null,
+    "freq": 99,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "to-day",
+    "roman": null,
+    "freq": 99,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "burma",
+    "roman": null,
+    "freq": 98,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hanbâ",
+    "roman": null,
+    "freq": 98,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "known",
+    "roman": null,
+    "freq": 98,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lai",
+    "roman": null,
+    "freq": 98,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "language",
+    "roman": null,
+    "freq": 98,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "old",
+    "roman": null,
+    "freq": 98,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ong",
+    "roman": null,
+    "freq": 98,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "words",
+    "roman": null,
+    "freq": 98,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ani",
+    "roman": null,
+    "freq": 97,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nga",
+    "roman": null,
+    "freq": 97,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "singpho",
+    "roman": null,
+    "freq": 97,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bîsùr",
+    "roman": null,
+    "freq": 96,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hot",
+    "roman": null,
+    "freq": 96,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kd",
+    "roman": null,
+    "freq": 96,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "me",
+    "roman": null,
+    "freq": 96,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "seem",
+    "roman": null,
+    "freq": 96,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "though",
+    "roman": null,
+    "freq": 96,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "transitive",
+    "roman": null,
+    "freq": 96,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gai",
+    "roman": null,
+    "freq": 95,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sadiya",
+    "roman": null,
+    "freq": 95,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "throne",
+    "roman": null,
+    "freq": 95,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "time",
+    "roman": null,
+    "freq": 95,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "boi",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deceased",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eee",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fowls",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "genitive",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khen",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "marry",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mech",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nagas",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nunânai",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thângùi",
+    "roman": null,
+    "freq": 94,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "among",
+    "roman": null,
+    "freq": 93,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bini",
+    "roman": null,
+    "freq": 93,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "korinu",
+    "roman": null,
+    "freq": 93,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lieutenant",
+    "roman": null,
+    "freq": 93,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pali",
+    "roman": null,
+    "freq": 93,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhimals",
+    "roman": null,
+    "freq": 92,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ding",
+    "roman": null,
+    "freq": 92,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "goalpara",
+    "roman": null,
+    "freq": 92,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "interrogative",
+    "roman": null,
+    "freq": 92,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kh",
+    "roman": null,
+    "freq": 92,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "many",
+    "roman": null,
+    "freq": 92,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "case",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gonds",
+    "roman": null,
+    "freq": 91,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ih",
+    "roman": null,
+    "freq": 91,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ii",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khat",
+    "roman": null,
+    "freq": 91,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khi",
+    "roman": null,
+    "freq": 91,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mon",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "village",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "water",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "were",
+    "roman": null,
+    "freq": 91,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "been",
+    "roman": null,
+    "freq": 90,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khasi",
+    "roman": null,
+    "freq": 90,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khintu",
+    "roman": null,
+    "freq": 90,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "saddle",
+    "roman": null,
+    "freq": 90,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tl",
+    "roman": null,
+    "freq": 90,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "conjugated",
+    "roman": null,
+    "freq": 89,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "into",
+    "roman": null,
+    "freq": 89,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jinis",
+    "roman": null,
+    "freq": 89,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mang",
+    "roman": null,
+    "freq": 89,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "participial",
+    "roman": null,
+    "freq": 89,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sal",
+    "roman": null,
+    "freq": 89,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "barua",
+    "roman": null,
+    "freq": 88,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivate",
+    "roman": null,
+    "freq": 88,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "substantive",
+    "roman": null,
+    "freq": 88,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vowel",
+    "roman": null,
+    "freq": 88,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "maunds",
+    "roman": null,
+    "freq": 87,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "narayan",
+    "roman": null,
+    "freq": 87,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "than",
+    "roman": null,
+    "freq": 87,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thi",
+    "roman": null,
+    "freq": 87,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "definite",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dui",
+    "roman": null,
+    "freq": 86,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ethnology",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "liquor",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "manipur",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "maund",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "miris",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "viz",
+    "roman": null,
+    "freq": 86,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivator",
+    "roman": null,
+    "freq": 85,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khorâng",
+    "roman": null,
+    "freq": 85,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ku",
+    "roman": null,
+    "freq": 85,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dangman",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deity",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fowl",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "grammatical",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "numerals",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nî",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rong",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sometimes",
+    "roman": null,
+    "freq": 84,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tlio",
+    "roman": null,
+    "freq": 84,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bù",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "good",
+    "roman": null,
+    "freq": 83,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "out",
+    "roman": null,
+    "freq": 83,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rites",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sab",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thang",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thine",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "use",
+    "roman": null,
+    "freq": 83,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vernacular",
+    "roman": null,
+    "freq": 83,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bahing",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "can",
+    "roman": null,
+    "freq": 82,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "colonel",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mâse",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "oj",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "perhaps",
+    "roman": null,
+    "freq": 82,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "seldom",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vel",
+    "roman": null,
+    "freq": 82,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "certain",
+    "roman": null,
+    "freq": 81,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "confined",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deputy-commissioner",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "erected",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "great",
+    "roman": null,
+    "freq": 81,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "man's",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mozo-mah",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "only",
+    "roman": null,
+    "freq": 81,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tibetan",
+    "roman": null,
+    "freq": 81,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "after",
+    "roman": null,
+    "freq": 80,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bamboos",
+    "roman": null,
+    "freq": 80,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gond",
+    "roman": null,
+    "freq": 80,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nan",
+    "roman": null,
+    "freq": 80,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "occupy",
+    "roman": null,
+    "freq": 80,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "outline",
+    "roman": null,
+    "freq": 80,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tang",
+    "roman": null,
+    "freq": 80,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "any",
+    "roman": null,
+    "freq": 79,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dng",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "du",
+    "roman": null,
+    "freq": 79,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dynasty",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kem",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khithânaise",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kol",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "race",
+    "roman": null,
+    "freq": 79,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rulers",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "shan",
+    "roman": null,
+    "freq": 79,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "up",
+    "roman": null,
+    "freq": 79,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ay",
+    "roman": null,
+    "freq": 78,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hen",
+    "roman": null,
+    "freq": 78,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rice",
+    "roman": null,
+    "freq": 78,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "specimen",
+    "roman": null,
+    "freq": 78,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "unt",
+    "roman": null,
+    "freq": 78,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "whence",
+    "roman": null,
+    "freq": 78,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ghora",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mare",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "now",
+    "roman": null,
+    "freq": 77,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "now-gong",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ornaments",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sub-group",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "voc",
+    "roman": null,
+    "freq": 77,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "about",
+    "roman": null,
+    "freq": 76,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chittagong",
+    "roman": null,
+    "freq": 76,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "most",
+    "roman": null,
+    "freq": 76,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tezpur",
+    "roman": null,
+    "freq": 76,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bihar",
+    "roman": null,
+    "freq": 75,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "day",
+    "roman": null,
+    "freq": 75,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "give",
+    "roman": null,
+    "freq": 75,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "given",
+    "roman": null,
+    "freq": 75,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "grammar",
+    "roman": null,
+    "freq": 75,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hundredweight",
+    "roman": null,
+    "freq": 75,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ngai",
+    "roman": null,
+    "freq": 75,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rangpur",
+    "roman": null,
+    "freq": 75,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "such",
+    "roman": null,
+    "freq": 75,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bridegroom",
+    "roman": null,
+    "freq": 74,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ina",
+    "roman": null,
+    "freq": 74,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "same",
+    "roman": null,
+    "freq": 74,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ama",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dak",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "din",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kan",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "out-turn",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "piwo",
+    "roman": null,
+    "freq": 73,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "baba",
+    "roman": null,
+    "freq": 72,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bi-ni",
+    "roman": null,
+    "freq": 72,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "brahman",
+    "roman": null,
+    "freq": 72,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "had",
+    "roman": null,
+    "freq": 72,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hills",
+    "roman": null,
+    "freq": 72,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ldne",
+    "roman": null,
+    "freq": 72,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "little",
+    "roman": null,
+    "freq": 72,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "madras",
+    "roman": null,
+    "freq": 72,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cane",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dâ",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hare",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "house",
+    "roman": null,
+    "freq": 71,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "men",
+    "roman": null,
+    "freq": 71,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nangni",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rang",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "scattered",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sect",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thângnânai",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tliey",
+    "roman": null,
+    "freq": 71,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "we",
+    "roman": null,
+    "freq": 71,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "borrowed",
+    "roman": null,
+    "freq": 70,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chandra",
+    "roman": null,
+    "freq": 70,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chha",
+    "roman": null,
+    "freq": 70,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "my",
+    "roman": null,
+    "freq": 70,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "opium",
+    "roman": null,
+    "freq": 70,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "where",
+    "roman": null,
+    "freq": 70,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "work",
+    "roman": null,
+    "freq": 70,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "before",
+    "roman": null,
+    "freq": 69,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bong",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "forehead",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kali",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kuki",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "malay",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "often",
+    "roman": null,
+    "freq": 69,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "resemblance",
+    "roman": null,
+    "freq": 69,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "above",
+    "roman": null,
+    "freq": 68,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "altogether",
+    "roman": null,
+    "freq": 68,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "buddhists",
+    "roman": null,
+    "freq": 68,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "goddess",
+    "roman": null,
+    "freq": 68,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "part",
+    "roman": null,
+    "freq": 68,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "probable",
+    "roman": null,
+    "freq": 68,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "apa",
+    "roman": null,
+    "freq": 67,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kolarian",
+    "roman": null,
+    "freq": 67,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "krishna",
+    "roman": null,
+    "freq": 67,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lâgi",
+    "roman": null,
+    "freq": 67,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tlic",
+    "roman": null,
+    "freq": 67,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "descendants",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dihing",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dru",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eiver",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gorai",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "intercourse",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kau",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "liave",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mah",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "miri",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mung",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "north-east",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "possessive",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rai",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tliis",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "upwards",
+    "roman": null,
+    "freq": 66,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deb",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "go",
+    "roman": null,
+    "freq": 65,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hun",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "huts",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khyim",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "koches",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "like",
+    "roman": null,
+    "freq": 65,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ngi",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pani",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pronounced",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "still",
+    "roman": null,
+    "freq": 65,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tou",
+    "roman": null,
+    "freq": 65,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "usually",
+    "roman": null,
+    "freq": 65,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chutiya",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dùi",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "famine",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "peasant",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "scarcely",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "three",
+    "roman": null,
+    "freq": 64,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "well",
+    "roman": null,
+    "freq": 64,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "woman",
+    "roman": null,
+    "freq": 64,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "yi",
+    "roman": null,
+    "freq": 64,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gaham",
+    "roman": null,
+    "freq": 63,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "place",
+    "roman": null,
+    "freq": 63,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "root",
+    "roman": null,
+    "freq": 63,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sho",
+    "roman": null,
+    "freq": 63,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tibet",
+    "roman": null,
+    "freq": 63,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "transitives",
+    "roman": null,
+    "freq": 63,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ancestors",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bugi",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "che",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dou",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "each",
+    "roman": null,
+    "freq": 62,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "first",
+    "roman": null,
+    "freq": 62,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kuri",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "must",
+    "roman": null,
+    "freq": 62,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nau",
+    "roman": null,
+    "freq": 62,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thus",
+    "roman": null,
+    "freq": 62,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ale",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ei",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gna",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "him-to",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "omitted",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pai",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "payi",
+    "roman": null,
+    "freq": 61,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "present",
+    "roman": null,
+    "freq": 61,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bor",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chin",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kam",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nar",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rude",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "selves",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thence",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wore",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "yam",
+    "roman": null,
+    "freq": 60,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "come",
+    "roman": null,
+    "freq": 59,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dwell",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "harem",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ini",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mara",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tipperah",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "went",
+    "roman": null,
+    "freq": 59,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "आरो",
+    "roman": null,
+    "freq": 59,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bap",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dative",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "descended",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "euphonic",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "going",
+    "roman": null,
+    "freq": 58,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lam",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "made",
+    "roman": null,
+    "freq": 58,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mongolian",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "neighbourhood",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nânai",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sang",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "seized",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "she",
+    "roman": null,
+    "freq": 58,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "singphos",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "spear",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "speech",
+    "roman": null,
+    "freq": 58,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "subdivisional",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "utensils",
+    "roman": null,
+    "freq": 58,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "angahmee",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bonga",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "common",
+    "roman": null,
+    "freq": 57,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "detachment",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eo",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "favour",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "marriage",
+    "roman": null,
+    "freq": 57,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pagan",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "saying",
+    "roman": null,
+    "freq": 57,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "shi",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sixty",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "verbal",
+    "roman": null,
+    "freq": 57,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vide",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "zi",
+    "roman": null,
+    "freq": 57,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ain",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "away",
+    "roman": null,
+    "freq": 56,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "barpeta",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "burha",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cco",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "decay",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dung",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hitherto",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "katang",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "neighbouring",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sung",
+    "roman": null,
+    "freq": 56,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "under",
+    "roman": null,
+    "freq": 56,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "behar",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dacca",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhan",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ine",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inhabit",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jin",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kandhs",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "latter",
+    "roman": null,
+    "freq": 55,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "life",
+    "roman": null,
+    "freq": 55,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "locality",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "locative",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "malayan",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "name",
+    "roman": null,
+    "freq": 55,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "once",
+    "roman": null,
+    "freq": 55,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "river",
+    "roman": null,
+    "freq": 55,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sex",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sexes",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sown",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "teuton",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tributary",
+    "roman": null,
+    "freq": 55,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ass",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bitch",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "conquest",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dao",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "forms",
+    "roman": null,
+    "freq": 54,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khai",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kiranti",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nin",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pq",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sipahees",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tistical",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "zânânai",
+    "roman": null,
+    "freq": 54,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aba",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bikho",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "coolies",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "four",
+    "roman": null,
+    "freq": 53,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "honour",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hundredweights",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kin",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nagah",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "obliged",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pur",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ruler",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tive",
+    "roman": null,
+    "freq": 53,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "anke",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "badi",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bark",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bddo",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bombay",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "buchanan",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bùrùiâ",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "far",
+    "roman": null,
+    "freq": 52,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "followers",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "found",
+    "roman": null,
+    "freq": 52,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gahâm",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gerund",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gong",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hojai",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "invariably",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kei",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khâm",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mir",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "petty",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "priesthood",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rajas",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tok",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "villagers",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wainsa",
+    "roman": null,
+    "freq": 52,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "affixes",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "also",
+    "roman": null,
+    "freq": 51,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "avith",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "district",
+    "roman": null,
+    "freq": 51,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "here",
+    "roman": null,
+    "freq": 51,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hereditary",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ihe",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inferior",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lânânai",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mother",
+    "roman": null,
+    "freq": 51,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "recognised",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "resemble",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "turanian",
+    "roman": null,
+    "freq": 51,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "affinity",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "coarse",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "despatched",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dwelling",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fai",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "grazing",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hajo",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "monkey",
+    "roman": null,
+    "freq": 50,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sikhî",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sânse",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "taka",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tlieir",
+    "roman": null,
+    "freq": 50,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "verbs",
+    "roman": null,
+    "freq": 50,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "always",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "burnt",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "corpse",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "did",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "even",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ij",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inhabited",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khun",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mânsùi",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nana",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "shall",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "spite",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "those",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vicinity",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wholly",
+    "roman": null,
+    "freq": 49,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "zânù",
+    "roman": null,
+    "freq": 49,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "adjoining",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "angni",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "beti",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "between",
+    "roman": null,
+    "freq": 48,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bung",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bùrùi",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "compelled",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dausi",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dum",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eat",
+    "roman": null,
+    "freq": 48,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "imperfect",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "infantry",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kang",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lhota",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "members",
+    "roman": null,
+    "freq": 48,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "negative",
+    "roman": null,
+    "freq": 48,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nominative",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "obâ",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ov",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "past",
+    "roman": null,
+    "freq": 48,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rainy",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rajah",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ruins",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "srî",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "toa",
+    "roman": null,
+    "freq": 48,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "abode",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chu",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chutiyas",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "civilisation",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "demonstrative",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gunal",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hid",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "indiba",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mcculloch",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "neg",
+    "roman": null,
+    "freq": 47,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "own",
+    "roman": null,
+    "freq": 47,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "admi",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "afa",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ard",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "arian",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "brahma",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "burmah",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cases",
+    "roman": null,
+    "freq": 46,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dukhu",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fastened",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fh",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gobind",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "goi",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "habit",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hindu",
+    "roman": null,
+    "freq": 46,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hùnaise",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jorhat",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ming",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mosô",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "numeral",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nå",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pang",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "phina",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pratap",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "taure",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tun",
+    "roman": null,
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "बादि",
+    "roman": "badi",
+    "freq": 46,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "almost",
+    "roman": null,
+    "freq": 45,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "am",
+    "roman": null,
+    "freq": 45,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ascended",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bes",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cholera",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dibrugarh",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "garment",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gerunds",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "govern",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "himalaya",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hoe",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kora",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "manipuri",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "munda",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "notwithstanding",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "refuge",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sickness",
+    "roman": null,
+    "freq": 45,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "supra",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vj",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "waist",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "whole",
+    "roman": null,
+    "freq": 45,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "âfâ",
+    "roman": null,
+    "freq": 45,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ample",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "appendix",
+    "roman": null,
+    "freq": 44,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "awa",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "boy",
+    "roman": null,
+    "freq": 44,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "came",
+    "roman": null,
+    "freq": 44,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "creed",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dhansiri",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "goest",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gohiin",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hika",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hor",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hùnânai",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "indebted",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ju",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kachin",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kc",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lias",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lin",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "me-to",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mâmâr",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nâ",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "oath",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rudra",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "serna",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "take",
+    "roman": null,
+    "freq": 44,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "uamang",
+    "roman": null,
+    "freq": 44,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "apu",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bam",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "breadth",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "descent",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "earthen",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "eldest",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "family",
+    "roman": null,
+    "freq": 43,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "han",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jalpaiguri",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kachdris",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kalang",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "knot",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mak",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "missionaries",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "moi",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ndng",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "noun",
+    "roman": null,
+    "freq": 43,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "number",
+    "roman": null,
+    "freq": 43,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nunna",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "rule",
+    "roman": null,
+    "freq": 43,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sketch",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "substantives",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tor",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "witli",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "za",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ângnî",
+    "roman": null,
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "खालामो",
+    "roman": "kalamw",
+    "freq": 43,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ablative",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "arii",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ascertained",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bhala",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "boiled",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "both",
+    "roman": null,
+    "freq": 42,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bugin",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "caldwell",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chutia",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "colour",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "commenced",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "considerably",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "denoted",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "elka",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "feathers",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fishermen",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gosain",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "how",
+    "roman": null,
+    "freq": 42,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kach",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kat",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khalamw",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kham",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "matno",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "millet",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "newari",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pha",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "practised",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "putra",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "seems",
+    "roman": null,
+    "freq": 42,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "seen",
+    "roman": null,
+    "freq": 42,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "subordinate",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "swine",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thâlit",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ue",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wast",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "wathim",
+    "roman": null,
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "थायो",
+    "roman": "tayw",
+    "freq": 42,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bebaidînù",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bitches",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "complexion",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "disj",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gaya",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "haba",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "however",
+    "roman": null,
+    "freq": 41,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "kata",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khang",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "liis",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ly",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lùi",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "near",
+    "roman": null,
+    "freq": 41,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ox",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "plateau",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sound",
+    "roman": null,
+    "freq": 41,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thayw",
+    "roman": null,
+    "freq": 41,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tiger",
+    "roman": null,
+    "freq": 41,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ame",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bima",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cognate",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "doubtful",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "english",
+    "roman": null,
+    "freq": 40,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "fainânai",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "herâ",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "home",
+    "roman": null,
+    "freq": 40,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "indefinite",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khâmnânai",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "languages",
+    "roman": null,
+    "freq": 40,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ling",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mishmis",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nationality",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "oma",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "orissa",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "plantain",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "respectable",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ry",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "simple",
+    "roman": null,
+    "freq": 40,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "stockade",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "subjunctive",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "succession",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thânaise",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tke",
+    "roman": null,
+    "freq": 40,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ang-ni",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "bilai",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "conquered",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cultivating",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "damant",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "danga",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "deori",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dibar",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "disposed",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "exceedingly",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "following",
+    "roman": null,
+    "freq": 39,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ik",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "impersonal",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inclined",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "inscription",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "intransitive",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "invaders",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "iz",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jl",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khamtis",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "large",
+    "roman": null,
+    "freq": 39,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lieu",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mahomedan",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mangaldai",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mis",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nagpur",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "proprietor",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "pumdi",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "sumatra",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "telugu",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "thdng",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "tiie",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "uriya",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "vowels",
+    "roman": null,
+    "freq": 39,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "without",
+    "roman": null,
+    "freq": 39,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "abor",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aham",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "annum",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "aryans",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "avas",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "baja",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "chang",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "character",
+    "roman": null,
+    "freq": 38,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "conjunct",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "consonant",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "cooch",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dal",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "dug",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "especially",
+    "roman": null,
+    "freq": 38,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "gait",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "get",
+    "roman": null,
+    "freq": 38,
+    "dialect": "english",
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "hâli",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "jai",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "khata",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "lakshmi",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "luk",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "midst",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "mun",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nangkhô",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "ni-ni",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  },
+  {
+    "word": "nuna",
+    "roman": null,
+    "freq": 38,
+    "dialect": null,
+    "origin": null,
+    "status": "unverified",
+    "meaning_hi": null,
+    "meaning_en": null
+  }
+]

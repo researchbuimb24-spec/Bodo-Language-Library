@@ -1,0 +1,87 @@
+{
+  "title": "Bodo Folklore Master Compendium: 320 Riddles & Traditional Proverbs",
+  "language": "Bodo (brx)",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)",
+  "summary": {
+    "total_riddles": 320,
+    "total_proverbs": 8,
+    "riddle_themes_count": 10,
+    "formats_available": [
+      "JSON",
+      "PDF",
+      "SQLite"
+    ]
+  },
+  "themes": [
+    {
+      "theme_id": "nature_celestial",
+      "title_en": "Theme 1: Elements of Nature & Celestial Phenomenon",
+      "title_hi": "विषय 1: प्राकृतिक तत्व और खगोलीय घटनाएं",
+      "title_bodo": "थिम 1: मिथिंगानि बेसाद आरो अखांनि फाव",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "flora_plants",
+      "title_en": "Theme 2: Flora, Trees, Wild Plants & Forest Harvests",
+      "title_hi": "विषय 2: वनस्पति, पेड़-पौधे और जंगल के फल",
+      "title_bodo": "थिम 2: बिफां-लाइफां आरो हाग्रानि फिथा",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "fauna_animals",
+      "title_en": "Theme 3: Fauna, Wild Animals, Aquatic Creatures & Birds",
+      "title_hi": "विषय 3: वन्यजीव, पशु, पक्षी और जलचर",
+      "title_bodo": "थिम 3: जिव-जुनार, दाव-मैदे आरो ना",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "household_tools",
+      "title_en": "Theme 4: Traditional Household, Kitchen & Gastronomy",
+      "title_hi": "विषय 4: पारंपरिक गृहस्थी, रसोई और व्यंजन",
+      "title_bodo": "थिम 4: न'खरनि बेसाद, संग्रा-जाग्रा आरो जामुं",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "weaving_attire",
+      "title_en": "Theme 5: Handloom, Weaving & Traditional Attire",
+      "title_hi": "विषय 5: हथकरघा, वस्त्र और पारंपरिक परिधान",
+      "title_bodo": "थिम 5: दावनाय-लुनाय आरो गाननाय-जोमनाय",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "agriculture_fishing",
+      "title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+      "title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+      "title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "human_body",
+      "title_en": "Theme 7: Human Body, Senses & Lifecycle",
+      "title_hi": "विषय 7: मानव शरीर, इंद्रियां और जीवन-चक्र",
+      "title_bodo": "थिम 7: मानसि देहा, मेगन-खोमा आरो जिव",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "music_rituals",
+      "title_en": "Theme 8: Music, Festivals, Rituals & Architecture",
+      "title_hi": "विषय 8: संगीत, त्योहार, बाथौ अनुष्ठान और वास्तु",
+      "title_bodo": "थिम 8: हारिमु, दामनाय-बानाय आरो बाथौ पुजा",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "time_abstract",
+      "title_en": "Theme 9: Mind, Time, Seasons & Abstract Concepts",
+      "title_hi": "विषय 9: मन, समय, ऋतुएं और दार्शनिक विचार",
+      "title_bodo": "थिम 9: गोसो, समा, बोथोर आरो ज्ञान",
+      "riddles_in_theme": 32
+    },
+    {
+      "theme_id": "witty_paradox",
+      "title_en": "Theme 10: Playful, Witty, Paradoxical & Children's Trick Riddles",
+      "title_hi": "विषय 10: हास्य-विनोद, पहेली-चमत्कार और बाल बुझौवल",
+      "title_bodo": "थिम 10: मिनिनाय, सोदोब-फाखे आरो गथ'नि सोंथि",
+      "riddles_in_theme": 32
+    }
+  ]
+}

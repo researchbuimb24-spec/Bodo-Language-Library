@@ -1,0 +1,17 @@
+{
+  "id": "RID-180",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "हादानि सिमा, हाबायाव थायो; दैखौ थानहोनानै फसलखौ रैखा खालामो",
+  "question_roman": "Hadani sima, habayao thayw; dwikhw thanhwnanwi fwswlkhw rwikha khalamw",
+  "question_hi": "खेतों के बीच मिट्टी की उठी हुई लंबी लकीर; पानी को रोककर रखती है और आने-जाने की राह भी बनती है। बताओ क्या?",
+  "question_en": "Earthen ridge dividing flooded fields, impounding precious irrigation water for the crop. What is it?",
+  "answer_bodo": "आलि",
+  "answer_roman": "Ali",
+  "answer_hi": "मेड़ / डाँड़ा",
+  "answer_en": "Paddy Field Dyke",
+  "cultural_note": "Defines boundaries and pathways.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

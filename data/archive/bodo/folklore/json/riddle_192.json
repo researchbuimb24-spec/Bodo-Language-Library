@@ -1,0 +1,17 @@
+{
+  "id": "RID-192",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "बिगुरनि खखाय, खंखोलायाव थायो; रासिखौ सिंआव रैखा खालामो",
+  "question_roman": "Bigurni khokhay, khwnkhwlayao thayw; rasikhw sinao rwikha khalamw",
+  "question_hi": "चमड़े की खोल जो किसान कमर में बांधता है; जिसमें तेज धार वाली दरांती सुरक्षित रखी जाती है। बताओ क्या?",
+  "question_en": "Leather sheath worn at the reaper's waist guarding the razor-sharp sickle edge between harvests. What is it?",
+  "answer_bodo": "रासिनि खाल",
+  "answer_roman": "Rasini khal",
+  "answer_hi": "दरांती की म्यान / खोल",
+  "answer_en": "Sickle Sheath",
+  "cultural_note": "Prevents accidental cuts.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

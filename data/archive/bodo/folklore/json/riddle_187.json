@@ -1,0 +1,17 @@
+{
+  "id": "RID-187",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "दोरिनि फिसा फां; दावफोरा गांसो जाफैबा हमो",
+  "question_roman": "Dorini fisa phan; daofora ganso jafwyba hwmbw",
+  "question_hi": "बारीक धागे का फंदा; दाना चुगने आने वाले जंगली पक्षियों के पैर इसमें उलझ जाते हैं। बताओ क्या?",
+  "question_en": "Delicate noose laid on the forest floor snaring ground-feeding fowl. What is it?",
+  "answer_bodo": "दाव-फां",
+  "answer_roman": "Dao-phan",
+  "answer_hi": "पक्षियों का फंदा",
+  "answer_en": "Bird Snare",
+  "cultural_note": "Traditional bird trap.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

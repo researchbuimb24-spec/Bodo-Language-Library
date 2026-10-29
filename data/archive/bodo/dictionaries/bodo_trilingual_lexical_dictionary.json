@@ -1,0 +1,343 @@
+{
+  "title": "Bodo-English-Hindi Trilingual Core Lexicon",
+  "total_entries": 48,
+  "source": "Compiled from Endle (1884), Narzary (1982), and Bodo Sahitya Sabha Lexica",
+  "entries": [
+    {
+      "bodo": "दै",
+      "roman": "dui",
+      "hindi": "पानी / जल",
+      "english": "water",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "हा",
+      "roman": "ha",
+      "hindi": "भूमि / ज़मीन",
+      "english": "land / soil",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अर'",
+      "roman": "or",
+      "hindi": "आग / अग्नि",
+      "english": "fire",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "बार",
+      "roman": "bar",
+      "hindi": "हवा / वायु",
+      "english": "air / wind",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अख्रां",
+      "roman": "okhrang",
+      "hindi": "आकाश / गगन",
+      "english": "sky / ether",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "सान",
+      "roman": "san",
+      "hindi": "सूर्य / दिन",
+      "english": "sun / day",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अखाफोर",
+      "roman": "okhafor",
+      "hindi": "चाँद / चंद्रमा",
+      "english": "moon",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "हाजो",
+      "roman": "hajw",
+      "hindi": "पहाड़ / पर्वत",
+      "english": "hill / mountain",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "दैमा",
+      "roman": "dwima",
+      "hindi": "नदी / सरिता",
+      "english": "river",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "हाग्रामा",
+      "roman": "hagrama",
+      "hindi": "जंगल / वन",
+      "english": "forest / jungle",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "आइ",
+      "roman": "ai",
+      "hindi": "माँ / माता",
+      "english": "mother",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "आफा",
+      "roman": "afa",
+      "hindi": "पिता / पिताश्री",
+      "english": "father",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "फिसा",
+      "roman": "fisa",
+      "hindi": "संतान / बच्चा",
+      "english": "child",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "बिदा",
+      "roman": "bida",
+      "hindi": "बड़ा भाई",
+      "english": "elder brother",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "फंबाय",
+      "roman": "fwmbay",
+      "hindi": "छोटा भाई",
+      "english": "younger brother",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "आगै",
+      "roman": "agwi",
+      "hindi": "छोटा भाई / बहन",
+      "english": "younger sibling",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "हिनजाव",
+      "roman": "hinjao",
+      "hindi": "स्त्री / महिला",
+      "english": "woman / wife",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "हौवा",
+      "roman": "houwa",
+      "hindi": "पुरुष / पति",
+      "english": "man / husband",
+      "cat": "Kinship"
+    },
+    {
+      "bodo": "न",
+      "roman": "noh",
+      "hindi": "घर / आवास",
+      "english": "house / home",
+      "cat": "Domestic"
+    },
+    {
+      "bodo": "मैखाम",
+      "roman": "mikhawm",
+      "hindi": "पका चावल / भात",
+      "english": "cooked rice / meal",
+      "cat": "Food"
+    },
+    {
+      "bodo": "माइ",
+      "roman": "mai",
+      "hindi": "धान / चावल की फसल",
+      "english": "paddy / unhusked rice",
+      "cat": "Food"
+    },
+    {
+      "bodo": "ना",
+      "roman": "na",
+      "hindi": "मछली",
+      "english": "fish",
+      "cat": "Food"
+    },
+    {
+      "bodo": "अमा",
+      "roman": "oma",
+      "hindi": "सूअर का मांस",
+      "english": "pork",
+      "cat": "Food"
+    },
+    {
+      "bodo": "दाव",
+      "roman": "dao",
+      "hindi": "मुर्गी / पक्षी",
+      "english": "chicken / fowl",
+      "cat": "Food"
+    },
+    {
+      "bodo": "आमाव",
+      "roman": "amaw",
+      "hindi": "पारंपरिक खमीर",
+      "english": "yeast / herbal starter",
+      "cat": "Food"
+    },
+    {
+      "bodo": "खाम",
+      "roman": "kham",
+      "hindi": "बोडो ढोल",
+      "english": "long barrel drum",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "सिफुं",
+      "roman": "siphung",
+      "hindi": "५ छेदों की बांसुरी",
+      "english": "5-hole bamboo flute",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "सेरजा",
+      "roman": "serja",
+      "hindi": "सारंगी नुमा वाद्य",
+      "english": "four-stringed violin",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "अर'नाय",
+      "roman": "aronai",
+      "hindi": "सम्मान का स्कार्फ",
+      "english": "traditional scarf",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "दखना",
+      "roman": "dokhona",
+      "hindi": "पारंपरिक महिला पोशाक",
+      "english": "traditional women's dress",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "गामसा",
+      "roman": "gamsha",
+      "hindi": "पारंपरिक पुरुष वस्त्र",
+      "english": "traditional waist-cloth",
+      "cat": "Culture"
+    },
+    {
+      "bodo": "गोजोन",
+      "roman": "gwojwn",
+      "hindi": "शांति / कल्याण",
+      "english": "peace / blessed",
+      "cat": "Abstract"
+    },
+    {
+      "bodo": "रंजानाय",
+      "roman": "rwangjanay",
+      "hindi": "आनंद / उल्लास",
+      "english": "joy / festive cheer",
+      "cat": "Abstract"
+    },
+    {
+      "bodo": "मोजां",
+      "roman": "mwjang",
+      "hindi": "अच्छा / सुंदर",
+      "english": "good / beautiful",
+      "cat": "Abstract"
+    },
+    {
+      "bodo": "गाज्रि",
+      "roman": "gajri",
+      "hindi": "बुरा / ख़राब",
+      "english": "bad / ugly",
+      "cat": "Abstract"
+    },
+    {
+      "bodo": "गेबेंग",
+      "roman": "gebeng",
+      "hindi": "सत्य / सही",
+      "english": "true / correct",
+      "cat": "Abstract"
+    },
+    {
+      "bodo": "गबां",
+      "roman": "gwbaw",
+      "hindi": "बहुत / अनेक",
+      "english": "many / much",
+      "cat": "Quantity"
+    },
+    {
+      "bodo": "इसे",
+      "roman": "ise",
+      "hindi": "थोड़ा / अल्प",
+      "english": "few / little",
+      "cat": "Quantity"
+    },
+    {
+      "bodo": "से",
+      "roman": "se",
+      "hindi": "एक (१)",
+      "english": "one (1)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "नै",
+      "roman": "nwi",
+      "hindi": "दो (२)",
+      "english": "two (2)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "थाम",
+      "roman": "tham",
+      "hindi": "तीन (३)",
+      "english": "three (3)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "ब्रै",
+      "roman": "brwi",
+      "hindi": "चार (४)",
+      "english": "four (4)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "बा",
+      "roman": "ba",
+      "hindi": "पाँच (५)",
+      "english": "five (5)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "द'",
+      "roman": "doh",
+      "hindi": "छह (६)",
+      "english": "six (6)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "स्नि",
+      "roman": "sni",
+      "hindi": "सात (७)",
+      "english": "seven (7)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "दान्थि",
+      "roman": "dain",
+      "hindi": "आठ (८)",
+      "english": "eight (8)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "गु",
+      "roman": "gu",
+      "hindi": "नौ (९)",
+      "english": "nine (9)",
+      "cat": "Number"
+    },
+    {
+      "bodo": "जि",
+      "roman": "ji",
+      "hindi": "दस (१०)",
+      "english": "ten (10)",
+      "cat": "Number"
+    }
+  ]
+}

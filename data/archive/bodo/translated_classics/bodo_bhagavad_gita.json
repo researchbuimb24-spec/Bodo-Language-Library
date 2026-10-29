@@ -1,0 +1,70 @@
+{
+  "title": "Srimad Bhagavad Gita in Bodo (श्रीमद्भगवद्गीता)",
+  "language": "Bodo (brx)",
+  "chapters": [
+    {
+      "ch": "Chapter 1",
+      "title": "अर्जुनविषादयोग (Arjuna-Vishada Yoga)",
+      "summary": "कुरुक्षेत्र पाहाडाव अर्जुननि दुखु आरो गावनि हारि-मानसिफोरखौ नुनानै गाबनाय।"
+    },
+    {
+      "ch": "Chapter 2",
+      "title": "सांख्ययोग (Sankhya Yoga)",
+      "summary": "जिउनि जोबनो गैयै रूप, सोलेरनि सोलायनाय आरो निष्काम कर्मयोगनि गिबि बिथा।"
+    },
+    {
+      "ch": "Chapter 3",
+      "title": "कर्मयोग (Karma Yoga)",
+      "summary": "फिथायनि लुबैनाय गैयै गावनि कर्तव्य मावनायनि मोजां मन्थाय।"
+    },
+    {
+      "ch": "Chapter 4",
+      "title": "ज्ञानकर्मसंन्यासयोग (Jnana-Karma-Sannyasa Yoga)",
+      "summary": "परम ज्ञान, अवतारनि कारण ('यदा यदा हि धर्मस्य') आरो ज्ञाननि अर'।"
+    },
+    {
+      "ch": "Chapter 5",
+      "title": "कर्मसंन्यासयोग (Karma-Sannyasa Yoga)",
+      "summary": "संन्यास आरो कर्मयोगनि गेजेराव मोजां सामलायनाय।"
+    },
+    {
+      "ch": "Chapter 6",
+      "title": "ध्यानयोग (Dhyana Yoga)",
+      "summary": "गोसोखौ सामलायनाय, ध्यान आरो आत्मा-साधना।"
+    },
+    {
+      "ch": "Chapter 9",
+      "title": "राजविद्याराजगुह्ययोग (Raja-Vidya-Raja-Guhya Yoga)",
+      "summary": "सर्वश्रेष्ठ ज्ञान आरो इसोरनाव पूर्ण समर्पण।"
+    },
+    {
+      "ch": "Chapter 11",
+      "title": "विश्वरूपदर्शनयोग (Vishwarupa-Darshana Yoga)",
+      "summary": "भगवान श्रीकृष्णनि अख्रां-संसार बुंफबनाय विश्वरूप नुफैनाय।"
+    },
+    {
+      "ch": "Chapter 12",
+      "title": "भक्तियोग (Bhakti Yoga)",
+      "summary": "ईश्वरनाव प्रेम, दया आरो शुद्ध भक्तियानो मोक्षनि लामा।"
+    },
+    {
+      "ch": "Chapter 18",
+      "title": "मोक्षसंन्यासयोग (Moksha-Sannyasa Yoga)",
+      "summary": "गासै धर्मखौ एंगारनानै इसोरनाव शरण थांनाय ('सर्वधर्मान्परित्यज्य')।"
+    }
+  ],
+  "sacred_shlokas": [
+    {
+      "shloka_sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "bodo_dev": "जेब्ला जेब्ला संसारआव धोरमोनि खहा जायो ओ भारत,\nआरो अधोरमोआ गोजौ जायो,\nबे समावनो आं गावनो गावनि देहा लानो जोनोम लायो।",
+      "bodo_rom": "Jebla jebla swnsarao dhormoni khwaha jayw o Bharata,\nAro odhormowa gwojwo jayw,\nBe smawbwnw ang gawnow gawni deha lanw jwnwm layw.",
+      "english": "Whenever there is a decline in righteousness, O Bharata, and a rise of unrighteousness, at that time I manifest myself on earth."
+    },
+    {
+      "shloka_sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "bodo_dev": "खामानियावसो नोंहा मोनथाय दं, फिथायाव जेब्लाबो नङा;\nखामानि फिथायनि थाखाय दामाव, आरो खामानि एंगारनानैबो दाथा।",
+      "bodo_rom": "Khamaniyaosw nwhnha mwnthay dwng, fithayao jeblabw nwnga;\nKhamani fithayni thakhay damao, aro khamani engarnanwibw datha.",
+      "english": "Thy right is to work only, but never with its fruits; let not the fruit of action be thy motive, nor let thy attachment be to inaction."
+    }
+  ]
+}

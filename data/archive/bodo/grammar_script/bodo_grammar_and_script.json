@@ -1,0 +1,151 @@
+{
+  "title": "Comprehensive Bodo Grammar & Script Orthography Guide",
+  "language": "Bodo (brx)",
+  "script": "Devanagari (formalized 1975) & Historical Latin",
+  "phonology": {
+    "vowels": [
+      {
+        "symbol": "a",
+        "devanagari": "आ / ा",
+        "ipa": "/a/",
+        "example": "हा (ha - land)"
+      },
+      {
+        "symbol": "i",
+        "devanagari": "इ / ि",
+        "ipa": "/i/",
+        "example": "फिसा (fisa - child)"
+      },
+      {
+        "symbol": "u",
+        "devanagari": "उ / ु",
+        "ipa": "/u/",
+        "example": "दुइ (dui - water)"
+      },
+      {
+        "symbol": "e",
+        "devanagari": "ए / े",
+        "ipa": "/e/",
+        "example": "बे (be - this)"
+      },
+      {
+        "symbol": "o",
+        "devanagari": "अ / ो",
+        "ipa": "/o/",
+        "example": "अँथ (wnth - end)"
+      },
+      {
+        "symbol": "w",
+        "devanagari": "अʼ / ौ / ो",
+        "ipa": "/ɯ/",
+        "example": "गोजौ (gwojwo - high)"
+      }
+    ],
+    "tonal_system": "Bodo is a tonal language characterized by High (Falling) Tone and Low (Level) Tone. Tone distinction shifts meaning across identical phonemic strings: e.g., 'हा' with high tone = 'to be able', with low tone = 'land/earth'."
+  },
+  "morphosyntax": {
+    "noun_inflections": [
+      {
+        "case": "Nominative",
+        "suffix": "-Ø (unmarked)",
+        "function": "Subject of clause",
+        "example": "मानसिया फैबाय (The person arrived)"
+      },
+      {
+        "case": "Accusative",
+        "suffix": "-खौ (-khwo)",
+        "function": "Direct object",
+        "example": "दाउसिनखौ नुबाय (Saw the bird)"
+      },
+      {
+        "case": "Genitive",
+        "suffix": "-नि (-ni)",
+        "function": "Possession / Origin",
+        "example": "गामनि मानसि (Person of the village)"
+      },
+      {
+        "case": "Dative",
+        "suffix": "-नो (-nw)",
+        "function": "Indirect object / Beneficiary",
+        "example": "बिहानो हर (Give to him)"
+      },
+      {
+        "case": "Instrumental",
+        "suffix": "-जों (-jwng)",
+        "function": "Means / accompaniment",
+        "example": "जोंजों थां (Go with us)"
+      },
+      {
+        "case": "Locative",
+        "suffix": "-आव (-ao)",
+        "function": "Location / in / at",
+        "example": "नआव दं (Is inside the house)"
+      },
+      {
+        "case": "Ablative",
+        "suffix": "-निफ्राय (-nifray)",
+        "function": "Separation / motion from",
+        "example": "गुवाहाटीनिफ्राय (From Guwahati)"
+      }
+    ],
+    "classifiers": [
+      {
+        "classifier": "सा (sa)",
+        "semantic_field": "Human beings",
+        "example": "मानसि सा-से (one person)"
+      },
+      {
+        "classifier": "मा (ma)",
+        "semantic_field": "Animals & living creatures",
+        "example": "मोसौ मा-नै (two cows)"
+      },
+      {
+        "classifier": "गं (gong)",
+        "semantic_field": "Houses, long tools, utensils",
+        "example": "न गं-थाम (three houses)"
+      },
+      {
+        "classifier": "थां / थाइ (thai)",
+        "semantic_field": "Fruits, round spherical items",
+        "example": "फिथाइ थाइ-से (one fruit)"
+      },
+      {
+        "classifier": "गां (gang)",
+        "semantic_field": "Flat thin objects, paper, leaf",
+        "example": "बिलाइ गां-से (one leaf)"
+      }
+    ],
+    "verb_tenses": [
+      {
+        "aspect": "Present Indefinite",
+        "suffix": "-ओ / -यो (-w / -yw)",
+        "example": "आं जानो लुबैयो (I wish to eat)"
+      },
+      {
+        "aspect": "Present Continuous",
+        "suffix": "-दों (-dwng)",
+        "example": "बिहा फैदों (He is coming)"
+      },
+      {
+        "aspect": "Past Indefinite",
+        "suffix": "-बाय (-bay)",
+        "example": "आं जाबाय (I ate / have eaten)"
+      },
+      {
+        "aspect": "Past Habitual / Past",
+        "suffix": "-मोन (-mwn)",
+        "example": "बेयाव थायोमोन (Used to reside here)"
+      },
+      {
+        "aspect": "Future",
+        "suffix": "-गोन (-gwn)",
+        "example": "जों गाबोन थांगोन (We will go tomorrow)"
+      },
+      {
+        "aspect": "Negative Marker",
+        "suffix": "Prefix दा- (da-) / Suffix -आ (-a)",
+        "example": "दाथां (don't go), थाङा (does not go)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Gitanjali in Bodo: Nobel Laureate Rabindranath Tagore's Verses",
+  "author": "Rabindranath Tagore",
+  "language": "Bodo (brx)",
+  "hymns": [
+    {
+      "song_no": "Song 1 (Gitanjali 1)",
+      "theme": "The Vessel of Life Filled with Infinite Song",
+      "bodo_dev": "नों आंखौ जोबनो गैयै खालामबाय, बेनो नोंनि गोसो;\nबे लेस्रा बासनखौ नों खेबसे-खेबनै खुबैयो,\nआरो गावनि गोजां जिउजों बुंफबहोनो फैयो।\nनोंनि आखायनि थावनाय जों आंनि गोरबोआ रंजादों।",
+      "bodo_rom": "Nwhn angkhwo jwbnw gwywi khalambay, benw nwhnni gwsw;\nBe lesra baswnkhwo nwhn khebse-khebnwi khubwyw,\nAro gawni gwojang jiujwng bungfwhwnw fwiyw.\nNwhnni akhayni thaonay jwng angni gworboa rwangjadwng.",
+      "english": "Thou hast made me endless, such is thy pleasure.\nThis frail vessel thou emptiest again and again, and fillest it ever with fresh life.\nAt the immortal touch of thy hands my little heart loses its limits in joy."
+    },
+    {
+      "song_no": "Song 35 (Gitanjali 35: Where the mind is without fear)",
+      "theme": "Where the mind is without fear",
+      "bodo_dev": "जेराव गोसोआ गिनाय गैयै, जेराव खर'आ गोजौ;\nजेराव ज्ञानआ गासैबो मानसिफोरनो उदां;\nजेराव बुहुमखौ गाम-हारिनि सिमा जों बाहागो खालामाखै;\nबे उदांनि स्वर्गाव, हे आफा, आंनि हारिया गिखांफिनथों!",
+      "bodo_rom": "Jerao gwswoa ginay gwywi, jerao khwrwa gwojwo;\nJerao jnan-a gasaybw mansiphornw udang;\nJerao buhumkhwo gam-harini sima jwng bahagw khalamakhwi;\nBe udangni swrgao, he Afa, angni hariya gikhangfinthwng!",
+      "english": "Where the mind is without fear and the head is held high;\nWhere knowledge is free;\nWhere the world has not been broken up into fragments by narrow domestic walls;\nInto that heaven of freedom, my Father, let my country awake."
+    }
+  ]
+}

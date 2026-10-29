@@ -1,4 +1,10 @@
-"""Abstract base class for translation engines."""
+"""Abstract base class for translation engines.
+
+💡 FILE INSIGHT & PURPOSE:
+Defines the translation architecture foundation: the abstract `BaseTranslationEngine`
+interface, standard ISO-639 language code aliases (e.g. 'bodo' -> 'brx'), and the
+`TranslationResult` structure that standardizes translations, confidence scores, and engine source.
+"""
 
 from __future__ import annotations
 

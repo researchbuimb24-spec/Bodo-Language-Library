@@ -1,4 +1,11 @@
-"""High-level translation API for Bodo language processing."""
+"""High-level translation API for Bodo language processing.
+
+💡 FILE INSIGHT & PURPOSE:
+Provides the primary Python interface for Bodo language translation and detection.
+Exposes the `BodoTranslator` class alongside helper functions `translate()`,
+`translate_batch()`, and `detect()`. Coordinates engine initialization, translation
+caching, and automatic fallback from online neural models to offline local lexicons.
+"""
 
 from __future__ import annotations
 
@@ -63,8 +70,12 @@ class BodoTranslator:
             for t in texts
         ]
 
-    def detect(self, text: str) -> str:
+    def detect(self, text: str, offline: bool = False) -> str:
         """Detect the language code of the input text."""
+        if isinstance(self.engine, CompositeBodoEngine):
+            return self.engine.detect_language(
+                text, force_offline=offline or self.force_offline
+            )
         return self.engine.detect_language(text)
 
     def get_supported_languages(self) -> dict[str, str]:
@@ -102,9 +113,7 @@ def translate(
         Translated text.
     """
     translator = _get_default_translator(**kwargs)
-    return translator.translate(
-        text, source=source, target=target, offline=offline
-    )
+    return translator.translate(text, source=source, target=target, offline=offline)
 
 
 def translate_batch(
@@ -121,7 +130,7 @@ def translate_batch(
     )
 
 
-def detect(text: str, **kwargs: Any) -> str:
+def detect(text: str, offline: bool = False, **kwargs: Any) -> str:
     """Detect language of the given text."""
     translator = _get_default_translator(**kwargs)
-    return translator.detect(text)
+    return translator.detect(text, offline=offline)

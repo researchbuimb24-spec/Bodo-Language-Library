@@ -1,0 +1,17 @@
+{
+  "id": "RID-001",
+  "theme": "nature_celestial",
+  "theme_title_en": "Theme 1: Elements of Nature & Celestial Phenomenon",
+  "theme_title_hi": "विषय 1: प्राकृतिक तत्व और खगोलीय घटनाएं",
+  "theme_title_bodo": "थिम 1: मिथिंगानि बेसाद आरो अखांनि फाव",
+  "question_bodo": "फुंयाव ओंखारो, बेलासेयाव गोमोयो; आथिं गैयाब्लाबो संसार दावबायो",
+  "question_roman": "Fungyao onkharw, belaseyao gomoyw; athing gayablabo sonsar daobayw",
+  "question_hi": "सुबह उगता है और शाम को अस्त होता है; बिना पैरों के सारे संसार की यात्रा करता है। बताओ क्या?",
+  "question_en": "Rises in the morning and sets in the evening; wanders across the entire universe without feet. What is it?",
+  "answer_bodo": "सान",
+  "answer_roman": "San",
+  "answer_hi": "सूर्य / सूरज",
+  "answer_en": "Sun",
+  "cultural_note": "The life-giving sun in Bodo folklore, revered in ancient Bathou cosmology as San-Bwrai.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

@@ -1,0 +1,28 @@
+{
+  "project": "bhasha_lib",
+  "language": "Bodo (brx)",
+  "digitalization_summary": {
+    "total_lexicon_headwords": 193581,
+    "total_word_occurrences": 297143,
+    "total_registered_sources": 35,
+    "total_folk_songs": 35,
+    "total_historical_books": 15,
+    "total_translated_world_classics": 5,
+    "number_system_cardinals_max": "1 Crore (1,00,00,000 / कौटि)",
+    "trilingual_dictionary_entries": "150+ Semantic Domain Terms"
+  },
+  "digital_directories": {
+    "books": "data/archive/bodo/books/ (15 Historical Books scanned in PDF, JSON, TXT)",
+    "folk_songs": "data/archive/bodo/folk_songs/ (35 Complete Songs in Master Anthology PDF, JSON & Individual JSONs)",
+    "number_system": "data/archive/bodo/number_system/ (Cardinals, Ordinals, Fractions, Classifiers in PDF & JSON)",
+    "dictionaries": "data/archive/bodo/dictionaries/ (Trilingual Dictionary across 10 Semantic Domains in PDF & JSON)",
+    "translated_classics": "data/archive/bodo/translated_classics/ (Ramayana, Mahabharata, Bible, Gita, Gitanjali in PDF & JSON)",
+    "literature": "data/archive/bodo/literature/ (Epochs, Authors, Poetry Anthologies in PDF & JSON)",
+    "grammar_script": "data/archive/bodo/grammar_script/ (Phonology, Tones, Suffixes, Classifiers in PDF & JSON)",
+    "folktales_myths": "data/archive/bodo/folktales_myths/ (Oral Folktales and Creation Myths in PDF & JSON)",
+    "religion_beliefs": "data/archive/bodo/religion_beliefs/ (Bathou Philosophy, Sijou Altar, Rituals in PDF & JSON)",
+    "cuisine_traditions": "data/archive/bodo/cuisine_traditions/ (Delicacies, Fermentation, Medicinal Starters in PDF & JSON)",
+    "oral_histories": "data/archive/bodo/oral_histories/ (Dimapur & Maibang Dynasties, Modern Peace Accords in PDF & JSON)",
+    "culture": "data/archive/bodo/culture/ (Bwisagu, Bagurumba, Weaving, Musical Instruments in PDF & JSON)"
+  }
+}

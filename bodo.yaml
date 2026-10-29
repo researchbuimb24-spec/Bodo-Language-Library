@@ -1,3 +1,6 @@
+# 💡 File Insight & Purpose:
+# Primary language specification for Bodo (brx): defines ISO code, script (Devanagari),
+# Unicode codepoint boundary range (0900-097F), and linguistic tonal properties.
 # Language configuration for Bodo
 name: Bodo
 code: brx

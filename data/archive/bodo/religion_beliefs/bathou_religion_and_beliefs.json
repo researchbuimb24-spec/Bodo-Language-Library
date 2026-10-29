@@ -1,0 +1,56 @@
+{
+  "title": "Bathou Religion, Spiritual Philosophy & Cosmic Worldview",
+  "faith": "Bathou (बाथौ)",
+  "supreme_deity": "Bathou Bwrai / Sibrai (The Eternal Formless Supreme Creator)",
+  "five_elements": [
+    {
+      "element": "Ha (हा)",
+      "meaning": "Earth / Solid Matter",
+      "role": "Foundation of physical existence, agriculture and mortal body."
+    },
+    {
+      "element": "Dwi (दै)",
+      "meaning": "Water / Fluidity",
+      "role": "Purifier of ritual, life-giving river, source of renewal."
+    },
+    {
+      "element": "Or (अर')",
+      "meaning": "Fire / Energy",
+      "role": "Cosmic spark, transformation, sacrificial agent in rituals."
+    },
+    {
+      "element": "Bar (बार)",
+      "meaning": "Air / Wind",
+      "role": "Breath of life (prana), motion, carrier of prayers."
+    },
+    {
+      "element": "Okhrang (अख्रां)",
+      "meaning": "Ether / Space",
+      "role": "Infinite cosmic space embracing all creation."
+    }
+  ],
+  "sacred_symbols": [
+    {
+      "symbol": "Sijou (सिजौ)",
+      "botanical": "Euphorbia nerifolia",
+      "meaning": "Living divine emblem of Bathou Bwrai planted in the Sithla (courtyard). Never pruned; its five ridges represent the five cosmic elements."
+    },
+    {
+      "symbol": "Khonthir (खन्थिर)",
+      "construction": "18-pair split bamboo fence",
+      "meaning": "Woven fence encircling the Sijou plant. The 18 pairs symbolize the 18 moral virtues and cosmic duties governing righteous human society."
+    },
+    {
+      "symbol": "Tulsi & Jarouba",
+      "botanical": "Holy basil and water vessels",
+      "meaning": "Sanctifying agents used during worship to sprinkle pure stream water on congregants."
+    }
+  ],
+  "reform_movements": [
+    {
+      "name": "Brahma Dharma Movement",
+      "founder": "Gurudev Kalicharan Brahma (1860–1938)",
+      "historical_significance": "A major socio-spiritual reformation initiated in the early 20th century. Introduced Vedic homa/yajna fire rituals while purifying superstitious practices, eradicating child marriage, and creating schools across Bodoland."
+    }
+  ]
+}

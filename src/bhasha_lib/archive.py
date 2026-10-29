@@ -1,4 +1,10 @@
-"""Utilities for interacting with language archive directories."""
+"""Utilities for interacting with language archive directories.
+
+💡 FILE INSIGHT & PURPOSE:
+Manages canonical filesystem paths for regional language archives (`data/archive/<language>/`).
+Standardizes directory categories (books, datasets, history, culture, folk_songs)
+and provides directory resolution and structural integrity verification (`verify_archive_structure()`).
+"""
 
 from __future__ import annotations
 

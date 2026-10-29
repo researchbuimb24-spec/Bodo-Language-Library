@@ -1,0 +1,11 @@
+---
+category: attire
+title: Gamsha
+region: Assam
+source: Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia)
+confidence: needs_check
+related_words:
+  - गामसा
+  - gamsha
+---
+The Gamsha (or Gamsa) is the traditional handwoven lower garment worn by Bodo men. Woven from durable cotton yarn on household looms, it is tied securely around the waist and extends down to just above the knees. Traditional Bodo Gamshas feature distinctive color combinations, most typically bright green, deep maroon, or yellow-orange with intricate geometric border stripes (Agor). It is lightweight and ideally suited for agricultural labour in the paddy fields, village sports, as well as formal festive occasions and folk dances when paired with an Aronai scarf.

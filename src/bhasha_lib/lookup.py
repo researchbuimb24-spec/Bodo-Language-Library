@@ -1,4 +1,10 @@
-"""Word lookup and cultural context search module for bhasha_lib."""
+"""Word lookup and cultural context search module for bhasha_lib.
+
+💡 FILE INSIGHT & PURPOSE:
+Unified multi-table lookup engine (`lookup_term`).
+Given any query string, searches words by exact match and prefix match, fetches up to 3 sentence
+usage contexts with bibliographic source titles from `occurrences`, and aggregates matching cultural articles.
+"""
 
 from __future__ import annotations
 
@@ -169,6 +175,12 @@ def print_lookup_results(results: dict[str, Any]) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     """CLI entry point for lexicon lookup."""
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except Exception:
+            pass
+
     parser = argparse.ArgumentParser(
         description="Lookup words and cultural notes in the lexicon database."
     )

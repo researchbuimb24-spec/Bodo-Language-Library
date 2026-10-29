@@ -1,4 +1,10 @@
-"""Extraction pipeline for loading text files into the SQLite database."""
+"""Extraction pipeline for loading text files into the SQLite database.
+
+💡 FILE INSIGHT & PURPOSE:
+Corpus ingestion engine that tokenizes raw text books and files into SQLite.
+Calculates token frequencies, strips Gutenberg header/footer markers, populates word occurrences
+with surrounding sentence context, and coordinates with English word filtering for historical texts.
+"""
 
 from __future__ import annotations
 
@@ -11,6 +17,7 @@ from bhasha_lib.db import (
     DEFAULT_DB_PATH,
     add_occurrence,
     add_word,
+    get_connection,
     init_db,
 )
 from bhasha_lib.english import is_english_word
@@ -160,6 +167,26 @@ def extract_file(
 
     # Ensure DB tables exist
     init_db(db_path)
+
+    # Ensure source record exists to satisfy foreign key constraint
+    # if occurrences will be persisted
+    if source_id is not None:
+        with get_connection(db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT 1 FROM sources WHERE id = ?", (source_id,))
+            if cursor.fetchone() is None:
+                cursor.execute(
+                    """
+                    INSERT INTO sources (id, title, license, file_path)
+                    VALUES (?, ?, ?, ?)
+                    """,
+                    (
+                        source_id,
+                        file_path.name,
+                        license if license else "unspecified",
+                        str(file_path),
+                    ),
+                )
 
     open_lic = is_open_license(license)
     is_latin = script.lower() == "latin"

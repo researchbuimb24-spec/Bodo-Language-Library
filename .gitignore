@@ -5,6 +5,7 @@
 data/*.csv
 data/english_words.txt
 data/export_*/
+data/raw_datasets/
 
 # Data archive directories
 data/archive/*/books/

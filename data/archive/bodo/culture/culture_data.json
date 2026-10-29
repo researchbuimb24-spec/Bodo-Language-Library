@@ -1,0 +1,202 @@
+[
+  {
+    "id": "aronai",
+    "title": "Aronai",
+    "category": "attire",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Bodoland Tourism culture page (tourism.bodoland.gov.in)",
+    "confidence": "needs_check",
+    "content": "Aronai ek chhota scarf hai jise Bodo purush aur mahilayein dono use karte hain.\nWikipedia ke mutabiq yeh Bodo parampara ki pehchaan hai: ise atithiyon ka samman\nkarne aur uphaar dene ke liye use kiya jaata hai, sardiyon mein gale mein lapeta\njaata hai, aur Bodo nritya ke pradarshan mein aam taur par pehna jaata hai.\nBodoland Tourism ke mutabiq Dokhona aur jwmgra ke saath aronai Bodo mahilaon ki\nsanskritik pehchaan hai.",
+    "file": "aronai.md"
+  },
+  {
+    "id": "bagurumba",
+    "title": "Bagurumba",
+    "category": "dance",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia); Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Bagurumba Bodo samaj ka jaana-pehchana lok-nritya hai, jise Bodoland Tourism ne\nsabse lokpriya nritya roop bataya hai aur \"Butterfly dance\" bhi kaha jaata hai.\nWikipedia ke mutabiq ise paramparik roop se Bodo log karte hain aur iske saath\nBagurumba geet gaaya jaata hai. Rooftop art-wiki ke mutabiq yeh Bodo mahilayein\nBwisagu ke dauran karti hain. Yeh vivran kamzor sources se hai aur kisi Bodo\nbolne wale se confirm karna baaki hai.",
+    "file": "bagurumba.md"
+  },
+  {
+    "id": "bathou",
+    "title": "Bathou",
+    "category": "ritual",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Anahad Foundation blog \"Gwjwna fwrni\"; Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Wikipedia ke mutabiq Bodo log Bathou dharm ko maante hain (saath hi anya\nparamparaon ko bhi). Anahad ke blog mein ek Bodo lok-gayika ke hawale se likha\nhai ki \"Ba\" ka matlab paanch aur \"Thou\" ka matlab gehra hai, aur paanch ka\nsambandh prakriti ke paanch tatvon (prithvi, jal, vayu, agni, aakash) se hai.\nRooftop art-wiki ke mutabiq Bathow Bwrai Bodo parampara ke sarvochch devta hain.\nYeh sab kamzor sources se hai aur Bodo bolne wale se confirm karna baaki hai.",
+    "file": "bathou.md"
+  },
+  {
+    "id": "bwisagu",
+    "title": "Bwisagu",
+    "category": "festival",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia); Anahad Foundation blog \"Gwjwna fwrni\"; Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Bwisagu Bodo samaj ka basant ka tyohaar hai, jo Wikipedia ke mutabiq naye saal\nki shuruaat par mid-April mein manaya jaata hai. Rooftop art-wiki ise Vishuba\nSankranti ke aas-paas batata hai, jabki Anahad ke blog mein ise Baisakh mahine\n(April-May) ka tyohaar likha hai. Bodoland Tourism ise Kherai aur Domashi ke\nsaath teen mukhya tyohaaron mein ginata hai. Sahi tareekh aur riwaaj kisi Bodo\nbolne wale se confirm karna baaki hai.",
+    "file": "bwisagu.md"
+  },
+  {
+    "id": "dokhona",
+    "title": "Dokhona",
+    "category": "attire",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Bodoland Tourism culture page (tourism.bodoland.gov.in)",
+    "confidence": "needs_check",
+    "content": "Dokhona Bodo mahilaon ka paramparik pehnawa hai. Wikipedia ke mutabiq yeh\nlagbhag 3 meter lamba aur 1.5 meter chauda hota hai aur seene se pairon tak\nlapeta jaata hai. Isme bunkar ke design (Agor) alag-alag rangon mein bune jaate\nhain. Mukhya do prakaar bataye gaye hain: sada Dokhona aur design wala Dokhona.\nBina Agor wala \"Matha Dokhona\" puja ke samay pehna jaata hai, aur laal ya peele\nrang ka Matha Dokhona dulhan ka paramparik pehnawa hai.",
+    "file": "dokhona.md"
+  },
+  {
+    "id": "domashi",
+    "title": "Domashi",
+    "category": "festival",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia)",
+    "confidence": "needs_check",
+    "content": "Bodoland Tourism Domashi ko Bodo logon ke teen mukhya tyohaaron mein ginata hai\n(Kherai, Domashi aur Bwisagu). Wikipedia mein bhi ise Bodo tyohaaron ki suchi\nmein rakha gaya hai. Is tyohaar kab aur kaise manaya jaata hai, iska vivran abhi\nkisi verified source se nahi liya gaya; kisi Bodo bolne wale se confirm karna baaki hai.",
+    "file": "domashi.md"
+  },
+  {
+    "id": "eri_silk",
+    "title": "Eri Silk & Traditional Weaving",
+    "category": "craft",
+    "region": "Assam",
+    "source": "The Kacháris (Sidney Endle, 1911); Bodoland Sericulture and Handloom Department",
+    "confidence": "needs_check",
+    "content": "Eri silk (Endi) and handloom weaving are central pillars of Bodo material culture and economic self-reliance. Historically, rearing the Eri silkworm (Sam or Philosamia ricini), which feeds primarily on castor leaves (Ricinus communis), was carried out in almost every Bodo household. Eri silk is known as \"Ahimsa silk\" or peace silk because the moths naturally emerge from the open-ended cocoon, allowing the thread to be hand-spun without boiling live pupae. Traditional Bodo women weave durable, warm Eri shawls (Endi Chadar) and cloth on indigenous looms (Taat-Xal / Sal). Traditionally, a young woman's competence in weaving intricate patterns (Agor) was regarded as one of her most admired virtues.",
+    "file": "eri_silk.md"
+  },
+  {
+    "id": "gamsha",
+    "title": "Gamsha",
+    "category": "attire",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia)",
+    "confidence": "needs_check",
+    "content": "The Gamsha (or Gamsa) is the traditional handwoven lower garment worn by Bodo men. Woven from durable cotton yarn on household looms, it is tied securely around the waist and extends down to just above the knees. Traditional Bodo Gamshas feature distinctive color combinations, most typically bright green, deep maroon, or yellow-orange with intricate geometric border stripes (Agor). It is lightweight and ideally suited for agricultural labour in the paddy fields, village sports, as well as formal festive occasions and folk dances when paired with an Aronai scarf.",
+    "file": "gamsha.md"
+  },
+  {
+    "id": "haba",
+    "title": "Haba",
+    "category": "custom",
+    "region": "Assam",
+    "source": "The Kacháris (Sidney Endle, 1911); Bodo Sahitya Sabha socio-cultural records",
+    "confidence": "needs_check",
+    "content": "Haba denotes marriage in the Bodo language and encompasses rich, equitable social traditions that historically avoided child marriage and dowry oppression. Traditional Bodo unions are negotiated by village elders and family representatives through formalized visits involving offerings of betel nuts (Goi-Pathwi) and rice refreshments. The definitive, sacred ritual of a Bodo wedding is the Hathasuni, in which the bride and bridegroom publicly share a consecrated meal of cooked rice and chicken or pork prepared by the bride, formally sealing their lifelong bond in the presence of relatives and village witnesses. Historically, forms of reciprocal service marriage (Ghar-Jiya) also existed, allowing men of humble means to marry with dignity.",
+    "file": "haba.md"
+  },
+  {
+    "id": "jotha",
+    "title": "Jotha",
+    "category": "instrument",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Anahad Foundation musical archives",
+    "confidence": "needs_check",
+    "content": "The Jotha is a pair of small, handheld traditional metallic cymbals made from bell metal or brass, joined together with a stout cotton cord. It serves as an indispensable rhythmic percussion instrument in traditional Bodo musical ensembles. When struck together with quick, glancing wrist movements, the Jotha produces sharp, shimmering high-frequency beats that punctuate the rhythmic patterns of the Kham drum and Siphung flute during the Bagurumba dance, Bwisagu festive songs, and Kherai ceremonies.",
+    "file": "jotha.md"
+  },
+  {
+    "id": "jou",
+    "title": "Jou & Amaw",
+    "category": "food",
+    "region": "Assam",
+    "source": "The Kacháris (Sidney Endle, 1911); Bodoland Tourism culture page",
+    "confidence": "needs_check",
+    "content": "Jou (historically documented as Zu or Zaw) is the traditional fermented rice beverage of the Bodos, essential to community hospitality, festive seasons like Bwisagu, and agricultural celebrations. It is prepared using an indigenous herbal starter cake known as Amaw (or Emao). The cake is crafted by pounding husked rice together with wild medicinal leaves and jungle plants (including jackfruit leaves and bhetai), molded into discs, sun-dried, and stored over the domestic hearth. When mixed with boiled rice in earthenware vessels (Kalas or Hathorkhi), it undergoes natural fermentation. Different varieties include Jou Bidwi (concentrated sweet brew used in rituals) and Jou Gwrlwi (light beverage served to guests).",
+    "file": "jou.md"
+  },
+  {
+    "id": "kham",
+    "title": "Kham",
+    "category": "instrument",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Kham Bodo samaj ka ek vaadya hai. Wikipedia ke mutabiq yeh lakdi aur bakri ki\nkhaal se bana lamba dhol hai. Wahan Bodo vaadyon ki suchi mein Kham ke saath\nSiphung, Serja, Jotha, Jabsring, Khawang, Bingi aur Rege ginaaye gaye hain. Yeh\nkin avsaron par bajaya jaata hai, iska vivran abhi verified source se nahi mila.",
+    "file": "kham.md"
+  },
+  {
+    "id": "kherai",
+    "title": "Kherai",
+    "category": "festival",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia); Anahad Foundation blog \"Gwjwna fwrni",
+    "confidence": "needs_check",
+    "content": "Bodoland Tourism Kherai ko Bodo logon ke teen mukhya tyohaaron mein ginata hai.\nWikipedia ke mutabiq Kherai mein gaana, nritya aur dhol-baaje shaamil hain, aur\nKherai ke kareeb 15 ya 18 prakar ke nritya maane jaate hain (wahan isse\n\"citation needed\" likha hai). Anahad ke blog mein ek Bodo lok-gayika ke hawale se\nlikha hai ki Kherai geeton ke antargat lagbhag 18 nritya roop hain aur Kherai\nnritya Sibrai ya Bathou ke prarthana-nritya hain. Ginti aur vivran ke liye kisi\nBodo bolne wale se confirm karna baaki hai.",
+    "file": "kherai.md"
+  },
+  {
+    "id": "napham",
+    "title": "Napham",
+    "category": "food",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in)",
+    "confidence": "needs_check",
+    "content": "Bodoland Tourism ne \"Napham bathwn\" ko mashhoor Bodo vyanjanon mein ginaa hai\n(Oma jwng narjwi aur Mwita Oma ke saath). Is vyanjan ki banaavat aur vidhi abhi\nkisi verified source se nahi li gayi; Bodo-Dimasa Archive ya kisi Bodo bolne\nwale se confirm karna baaki hai.",
+    "file": "napham.md"
+  },
+  {
+    "id": "noh",
+    "title": "Noh",
+    "category": "architecture",
+    "region": "Assam",
+    "source": "The Kacháris (Sidney Endle, 1911); Bodoland Tourism",
+    "confidence": "needs_check",
+    "content": "Noh refers to the traditional architectural homestead of the Bodo people. A classic Bodo village homestead is built around an open, clean central courtyard called the Sithla. The compound comprises three or four separate thatched cottages with walls of plastered split bamboo or reed (ekra): the main family living quarters (Noh Gudi), a separate kitchen and dining house, a guest room, a granary for unhusked paddy (Bakri), and a livestock shed placed at a hygienic distance. Each homestead is typically surrounded by a ditch and a living reed or bamboo fence to keep domestic livestock safe. The sacred north-eastern corner of the courtyard is always reserved for the Bathou shrine and the holy Sijou altar.",
+    "file": "noh.md"
+  },
+  {
+    "id": "oma_jwng_narjwi",
+    "title": "Oma jwng narjwi",
+    "category": "food",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro culture (Wikipedia)",
+    "confidence": "needs_check",
+    "content": "Bodoland Tourism ne Oma jwng narjwi ko mashhoor Bodo vyanjanon mein ginaa hai.\nWikipedia ke mutabiq \"Narzi\" sookhe jute (paat) ke patton se bana kadwa ras\nwala vyanjan hai, jisme sooar ka maans (Oma) ya meethe paani ki machhli saath\npakayi ja sakti hai. Yeh dono ek hi vyanjan hain ya nahi, aur pakane ki vidhi\nkya hai, yeh abhi confirm nahi hai.",
+    "file": "oma_jwng_narjwi.md"
+  },
+  {
+    "id": "serja",
+    "title": "Serja",
+    "category": "instrument",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Serja Bodo ka ek vaadya hai jo Wikipedia ke mutabiq violin jaisa hai. Iski body\ngol hoti hai aur scroll aage ki taraf muda hota hai. Ise kaise bajaya jaata hai\naur kin geeton mein, iska vivran abhi verified source se nahi mila.",
+    "file": "serja.md"
+  },
+  {
+    "id": "sijou",
+    "title": "Sijou",
+    "category": "ritual",
+    "region": "Assam",
+    "source": "The Kacháris (Sidney Endle, 1911); Bathou Religious Tradition",
+    "confidence": "needs_check",
+    "content": "The Sijou tree (Euphorbia neriifolia / antiquorum) is the sacred living symbol of Bathou Bwrai, the supreme deity of the indigenous Bathou religion of the Bodo community. In every traditional Bodo homestead, a Sijou tree is reverently planted in the north-eastern corner of the courtyard (Sithla), paired with the sacred Tulsi plant. The plant is enclosed within a circular bamboo fence made of exactly eighteen pairs of woven bamboo splits (Khonthir), which symbolize the eighteen pairs of divine attributes and moral principles governing human conduct. During the sacred Kherai festival and domestic rituals, offerings of clean water, rice, flowers, and incense are placed at the foot of the Sijou tree.",
+    "file": "sijou.md"
+  },
+  {
+    "id": "siphung",
+    "title": "Siphung",
+    "category": "instrument",
+    "region": "Assam",
+    "source": "Boro culture (Wikipedia); Bagurumba (rooftopapp.com art-wiki)",
+    "confidence": "needs_check",
+    "content": "Siphung Bodo samaj ki lambi baans ki bansuri hai. Wikipedia ke mutabiq ismein\nsirf paanch chhed hote hain (uttar Bharat ki bansuri mein chhah hote hain),\nyeh us se kaafi lambi hoti hai aur isse kam sur (lower tone) nikalta hai.",
+    "file": "siphung.md"
+  },
+  {
+    "id": "tharkha",
+    "title": "Tharkha",
+    "category": "instrument",
+    "region": "Assam",
+    "source": "Bodoland Tourism culture page (tourism.bodoland.gov.in); Boro folk instruments archive",
+    "confidence": "needs_check",
+    "content": "The Tharkha is a traditional folk percussion instrument crafted from a length of seasoned mature bamboo, split down one side so that its two halves clap rhythmically against each other when struck or shaken. Producing a crisp, dry clacking cadence, it is held in one hand and slapped against the palm or shaken in time with the song. It is especially beloved by youths and maidens during the lively, fast-paced spring Bwisagu celebrations, where it keeps time for joyous group folk singing and energetic dancing.",
+    "file": "tharkha.md"
+  }
+]

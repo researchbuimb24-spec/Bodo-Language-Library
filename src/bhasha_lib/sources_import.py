@@ -1,4 +1,10 @@
-"""Command and utilities for importing sources metadata from CSV."""
+"""Command and utilities for importing sources metadata from CSV.
+
+💡 FILE INSIGHT & PURPOSE:
+Imports bibliography and reference data from CSV files into the SQLite `sources` table.
+Strictly validates mandatory licensing (`license` field cannot be empty) and supports
+safe upserting so duplicate bibliographic entries are reconciled cleanly.
+"""
 
 from __future__ import annotations
 

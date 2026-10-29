@@ -1,0 +1,17 @@
+{
+  "id": "RID-174",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "अवाजों बेखेंदों धनु; गांखं थिरखौ गोजानाव बिरहोयो",
+  "question_roman": "Oajwng bekhendw dhwnu; gankhong thirkhw gojanao birhwyw",
+  "question_hi": "बांस की झुकी हुई कमान; पंखों वाले तीर को जंगल में दूर तक हवा में उड़ा देती है। बताओ क्या?",
+  "question_en": "Bent bamboo stave strung with rattan cord, propelling feathered shafts into forest depths. What is it?",
+  "answer_bodo": "थिर-धनु",
+  "answer_roman": "Thir-dhanu",
+  "answer_hi": "धनुष-बाण / कमान",
+  "answer_en": "Bamboo Bow and Arrow",
+  "cultural_note": "Traditional hunting and defense weapon.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

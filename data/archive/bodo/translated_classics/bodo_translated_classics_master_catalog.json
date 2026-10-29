@@ -1,0 +1,36 @@
+{
+  "title": "Bodo Translated Classics Library (रामायण, महाभारत, बाइबेल, गीता, गीताञ्जलि)",
+  "language": "Bodo (brx)",
+  "classics_catalog": [
+    {
+      "work": "Ramayana (बर' रामायण)",
+      "original_author": "Sage Valmiki",
+      "bodo_translator": "Jyanendra Basumatary (Publication Board Assam)",
+      "formats": "PDF (bodo_ramayana.pdf) + JSON (bodo_ramayana.json)"
+    },
+    {
+      "work": "Mahabharata (बर' महाभारत)",
+      "original_author": "Sage Vyasa",
+      "bodo_translator": "Priyadini Brahma (ABILAC) & Publication Board Assam",
+      "formats": "PDF (bodo_mahabharata.pdf) + JSON (bodo_mahabharata.json)"
+    },
+    {
+      "work": "Holy Bible (बर' बाइबेल / गोदान रादाब)",
+      "tradition": "Christian Scripture",
+      "bodo_translator": "Rev. C. Bechtold, Rev. A. Kristiansen, Bible Society of India",
+      "formats": "PDF (bodo_bible_gwdan_radab.pdf) + JSON (bodo_bible_gwdan_radab.json)"
+    },
+    {
+      "work": "Srimad Bhagavad Gita (श्रीमद्भगवद्गीता)",
+      "tradition": "Vedic / Epic Scripture",
+      "bodo_translator": "Bodo Sahitya Sabha Scholars & Regional Sanskritists",
+      "formats": "PDF (bodo_bhagavad_gita.pdf) + JSON (bodo_bhagavad_gita.json)"
+    },
+    {
+      "work": "Gitanjali (गीताञ्जलि)",
+      "original_author": "Rabindranath Tagore",
+      "bodo_translator": "Sahitya Akademi Bodo Translators",
+      "formats": "PDF (bodo_gitanjali.pdf) + JSON (bodo_gitanjali.json)"
+    }
+  ]
+}

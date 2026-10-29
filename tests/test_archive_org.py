@@ -12,6 +12,7 @@ from bhasha_lib.loaders.archive_org import (
 def test_historical_books_presets():
     assert "anderson_1895" in HISTORICAL_BOOKS
     assert "endle_1884" in HISTORICAL_BOOKS
+    assert "endle_1911" in HISTORICAL_BOOKS
 
     anderson = HISTORICAL_BOOKS["anderson_1895"]
     assert anderson.author == "J. D. Anderson"
@@ -23,6 +24,11 @@ def test_historical_books_presets():
     assert endle.author == "Sidney Endle"
     assert endle.year == 1884
     assert endle.license == "public_domain"
+
+    endle_1911 = HISTORICAL_BOOKS["endle_1911"]
+    assert endle_1911.author == "Sidney Endle"
+    assert endle_1911.year == 1911
+    assert endle_1911.license == "public_domain"
 
 
 def test_download_book_text_invalid():

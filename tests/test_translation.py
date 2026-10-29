@@ -108,9 +108,7 @@ def test_bodo_suffix_stripping(test_db):
 def test_composite_fallback_on_network_failure(test_db):
     """Verify CompositeBodoEngine automatically falls back to offline engine."""
     primary_mock = MagicMock(spec=GoogleGTXEngine)
-    primary_mock.translate.side_effect = TranslationNetworkError(
-        "Connection refused"
-    )
+    primary_mock.translate.side_effect = TranslationNetworkError("Connection refused")
     fallback_engine = BodoOfflineEngine(db_path=test_db)
 
     composite = CompositeBodoEngine(
@@ -146,9 +144,7 @@ def test_translator_batch_and_detect(test_db):
         db_path=test_db,
     )
 
-    batch_res = translator.translate_batch(
-        ["दै", "गाम"], source="brx", target="en"
-    )
+    batch_res = translator.translate_batch(["दै", "गाम"], source="brx", target="en")
     assert batch_res == ["water", "गाँव" if "गाँव" == batch_res[1] else "village"]
 
     lang = translator.detect("मानसिफोर गामआव दं")
@@ -163,13 +159,11 @@ def test_top_level_translate_functions(test_db):
     res = translate("दै", target="en", offline=True, db_path=test_db)
     assert res == "water"
 
-    batch = translate_batch(
-        ["नाव", "अंखा"], target="en", offline=True, db_path=test_db
-    )
+    batch = translate_batch(["नाव", "अंखा"], target="en", offline=True, db_path=test_db)
     assert "boat" in batch[0]
     assert "rain" in batch[1]
 
-    d_code = detect("दै गाम")
+    d_code = detect("दै गाम", offline=True, db_path=test_db)
     assert d_code == "brx"
 
     # Default target without specifying target= should translate into Bodo
@@ -186,7 +180,7 @@ def test_cli_interface(test_db, capsys):
     assert out == "water"
 
     # Detect
-    code_det = cli_main(["गामनि नाव", "--detect"])
+    code_det = cli_main(["गामनि नाव", "--detect", "--offline", "--db", str(test_db)])
     assert code_det == 0
     det_out = capsys.readouterr().out.strip()
     assert det_out == "brx"

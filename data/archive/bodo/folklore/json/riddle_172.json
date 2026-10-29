@@ -1,0 +1,17 @@
+{
+  "id": "RID-172",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "लोहानि गुन्दै सायाव, खुननि जालि; दैमायाव बिरहोबा नाखौ धापियो",
+  "question_roman": "Lohani gundwi sayao, khunni jali; dwimayao birhwba nakhw dhapiyw",
+  "question_hi": "किनारों पर लोहे की गोलियां बंधी हैं, धागे का जाल; पानी में फेंकते ही गोल फैलकर मछलियों को घेर लेता है। बताओ क्या?",
+  "question_en": "Weighted circular mesh thrown with a spin across river pools, sinking quickly to snare fish. What is it?",
+  "answer_bodo": "झे",
+  "answer_roman": "Jhe",
+  "answer_hi": "जाल / फेंका जाल (कास्ट नेट)",
+  "answer_en": "Cast Net",
+  "cultural_note": "Used by fishermen in deep channels.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

@@ -1,5 +1,11 @@
 # Ethical Archiving & Community Consent Protocol
 
+> [!IMPORTANT]
+> **💡 File Insight & Purpose**:
+> - **Role in Library**: Governance charter for indigenous data sovereignty & ethical archiving.
+> - **What is happening here**: Defines legal and moral guidelines for preserving Bodo oral traditions, mandating prior written consent, tracking 5 granular permission scopes, forbidding unauthorized audio distribution, and providing standard consent verification forms.
+> - **Who should use it**: Community archivists, researchers, ethnomusicologists, and contributors collecting oral literature or audio recordings.
+
 Preserving traditional folk songs (*lok-geet*), oral lore, ritual chants, and spoken audio recordings requires the highest level of cultural sensitivity, legal respect, and community custodianship. 
 
 Traditional cultural expressions belong to the communities that nurtured them. This protocol establishes mandatory requirements for archiving Bodo oral heritage within `bhasha_lib`.

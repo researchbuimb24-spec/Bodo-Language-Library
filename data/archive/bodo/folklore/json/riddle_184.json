@@ -1,0 +1,17 @@
+{
+  "id": "RID-184",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "बेखेंदों लोहानि दाव; हाग्रानि झाड़ि हास्रोयो",
+  "question_roman": "Bekhendw lohani dao; hagrani jhari hasrwyw",
+  "question_hi": "मुड़ा हुआ लोहे का तेज औज़ार; जंगल की कंटीली झाड़ियों को साफ करने में काम आता है। बताओ क्या?",
+  "question_en": "Curved iron billhook clearing jungle thickets and harvesting bamboo poles. What is it?",
+  "answer_bodo": "दाव / खुरा-दाव",
+  "answer_roman": "Dao / Khura-dao",
+  "answer_hi": "हंसुआ दाव / बिलहुक",
+  "answer_en": "Billhook",
+  "cultural_note": "Essential bush knife.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

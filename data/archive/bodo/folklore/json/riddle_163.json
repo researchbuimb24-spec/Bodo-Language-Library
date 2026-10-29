@@ -1,0 +1,17 @@
+{
+  "id": "RID-163",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "अवाजों बानायनाय दालां बादि; हादाखौ समान खालामो",
+  "question_roman": "Oajwng banaynay dalang badi; hadakhw swman khalamw",
+  "question_hi": "बांस की सीढ़ी जैसा ढांचा; बैलों के पीछे घिसट कर जुती हुई गीली मिट्टी को चौरस बनाता है। बताओ क्या?",
+  "question_en": "Flat bamboo ladder dragged by oxen, leveling churned mud into an even seedbed. What is it?",
+  "answer_bodo": "मै / मै-दालां",
+  "answer_roman": "Moi / Moi-dalang",
+  "answer_hi": "पाटा / हेंगा",
+  "answer_en": "Bamboo Harrow",
+  "cultural_note": "Smooths mud terraces before planting.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

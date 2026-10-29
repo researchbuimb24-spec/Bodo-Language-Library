@@ -1,0 +1,17 @@
+{
+  "id": "RID-150",
+  "theme": "weaving_attire",
+  "theme_title_en": "Theme 5: Handloom, Weaving & Traditional Attire",
+  "theme_title_hi": "विषय 5: हथकरघा, वस्त्र और पारंपरिक परिधान",
+  "theme_title_bodo": "थिम 5: दावनाय-लुनाय आरो गाननाय-जोमनाय",
+  "question_bodo": "बिलाइखौ जाहोनानै एनदिखौ फोथाङो; बिफां गैयाब्ला कपोर गैया",
+  "question_roman": "Bilaikhw jahwnanwi endikhw fwthangw; bifang gayabla kwpor gaya",
+  "question_hi": "इसकी पत्तियों को खाकर ही रेशम कीट जिंदा रहता है; अगर यह पेड़ न हो तो रेशमी चादर नहीं बन सकती। बताओ क्या?",
+  "question_en": "Lobed green leaves nourishing the spinning silkworms; without its nourishment, no Eri silk exists. What is it?",
+  "answer_bodo": "एरा बिफां",
+  "answer_roman": "Era bifang",
+  "answer_hi": "अरंडी का पौधा (रेंडी)",
+  "answer_en": "Castor Plant",
+  "cultural_note": "Host plant for Eri silkworms.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

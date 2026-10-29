@@ -1,4 +1,7 @@
 ---
+# 💡 File Insight & Purpose:
+# Reference schema template demonstrating how community folk songs and audio recording metadata
+# must be structured—including performer credit, instruments, and institutional consent references.
 title: "Habao Fwinailai"
 category: "folk_song"
 genre: "Bwisagu Geeth"

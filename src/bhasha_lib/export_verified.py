@@ -1,4 +1,11 @@
-"""Export verified lexicon data and license metadata."""
+"""Export verified lexicon data and license metadata.
+
+💡 FILE INSIGHT & PURPOSE:
+Public distribution and release packaging pipeline (`export_verified`).
+Extracts only community- or expert-verified dictionary words with non-empty definitions,
+generating clean BOM-encoded UTF-8 CSV (`lexicon_verified.csv`), JSON (`lexicon_verified.json`),
+and accompanying license manifests (`DATA_LICENSE.txt`) while protecting reviewer privacy.
+"""
 
 from __future__ import annotations
 

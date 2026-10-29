@@ -1,3 +1,6 @@
+# 💡 File Insight & Purpose:
+# Secondary reference language configuration for Bodo (brx): specifies script, ISO code,
+# and Unicode range for the bhasha_lib linguistic configuration loader.
 # Language configuration for Bodo
 name: Bodo
 code: brx

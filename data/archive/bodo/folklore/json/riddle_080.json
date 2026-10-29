@@ -1,0 +1,17 @@
+{
+  "id": "RID-080",
+  "theme": "fauna_animals",
+  "theme_title_en": "Theme 3: Fauna, Wild Animals, Aquatic Creatures & Birds",
+  "theme_title_hi": "विषय 3: वन्यजीव, पशु, पक्षी और जलचर",
+  "theme_title_bodo": "थिम 3: जिव-जुनार, दाव-मैदे आरो ना",
+  "question_bodo": "खर' गैया, आथिं जें जें; न' लुयो बावरे गैया",
+  "question_roman": "Khorw gaya, athing zeng zeng; noh luyw baorw gaya",
+  "question_hi": "आठ फैले हुए पैर हैं; हवा में बिना किसी खंभे या लकड़ी के सुंदर जालीदार महल बुनता है। बताओ क्या?",
+  "question_en": "It has eight outstretched legs; weaves an intricate circular palace in mid-air with neither wood nor bamboo posts. What is it?",
+  "answer_bodo": "गोंगगां",
+  "answer_roman": "Gonggang",
+  "answer_hi": "मकड़ी (और उसका जाला)",
+  "answer_en": "Spider (and its web)",
+  "cultural_note": "Master of geometrical silk geometry in old Bodo riddles.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

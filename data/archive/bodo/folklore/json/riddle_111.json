@@ -1,0 +1,17 @@
+{
+  "id": "RID-111",
+  "theme": "household_tools",
+  "theme_title_en": "Theme 4: Traditional Household, Kitchen & Gastronomy",
+  "theme_title_hi": "विषय 4: पारंपरिक गृहस्थी, रसोई और व्यंजन",
+  "theme_title_bodo": "थिम 4: न'खरनि बेसाद, संग्रा-जाग्रा आरो जामुं",
+  "question_bodo": "लैथोआव जायो, बेसादआव गमायो; गैयाब्ला गोथाव गैया, बांद्रायबा खामो",
+  "question_roman": "Lwithwao jayw, besadao gomayw; gayabla gwthao gaya, bandrayba khamw",
+  "question_hi": "समुद्र से पैदा होता है, दाल-सब्जी में गायब हो जाता है; न हो तो खाना बेस्वाद, ज्यादा हो जाए तो खाया नहीं जाता। बताओ क्या?",
+  "question_en": "Born of ocean water, vanishes invisibly into soup; missed when absent, ruins the feast when excessive. What is it?",
+  "answer_bodo": "सन",
+  "answer_roman": "Son",
+  "answer_hi": "नमक / लवण",
+  "answer_en": "Salt",
+  "cultural_note": "Universal seasoner.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

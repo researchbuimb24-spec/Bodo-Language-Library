@@ -1,0 +1,11 @@
+---
+category: instrument
+title: Jotha
+region: Assam
+source: Bodoland Tourism culture page (tourism.bodoland.gov.in); Anahad Foundation musical archives
+confidence: needs_check
+related_words:
+  - जोथा
+  - jotha
+---
+The Jotha is a pair of small, handheld traditional metallic cymbals made from bell metal or brass, joined together with a stout cotton cord. It serves as an indispensable rhythmic percussion instrument in traditional Bodo musical ensembles. When struck together with quick, glancing wrist movements, the Jotha produces sharp, shimmering high-frequency beats that punctuate the rhythmic patterns of the Kham drum and Siphung flute during the Bagurumba dance, Bwisagu festive songs, and Kherai ceremonies.

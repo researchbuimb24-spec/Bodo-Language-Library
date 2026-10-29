@@ -1,4 +1,11 @@
-"""Offline rule-based and lexicon translation engine for Bodo."""
+"""Offline rule-based and lexicon translation engine for Bodo.
+
+💡 FILE INSIGHT & PURPOSE:
+Self-contained, offline translation engine (`BodoOfflineEngine`).
+Combines SQLite dictionary lookups with Bodo morphological analysis—stripping
+and reconstructing grammatical case suffixes (genitive -नि, accusative -खौ, dative -नो,
+locative -आव) and plural markers (-फोर) for bidirectional Bodo <-> English/Hindi translation.
+"""
 
 from __future__ import annotations
 

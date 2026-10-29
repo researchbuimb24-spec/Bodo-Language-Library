@@ -1,0 +1,17 @@
+{
+  "id": "RID-218",
+  "theme": "human_body",
+  "theme_title_en": "Theme 7: Human Body, Senses & Lifecycle",
+  "theme_title_hi": "विषय 7: मानव शरीर, इंद्रियां और जीवन-चक्र",
+  "theme_title_bodo": "थिम 7: मानसि देहा, मेगन-खोमा आरो जिव",
+  "question_bodo": "स्रौनाय खखाय बादि; सानफ्रोमबो थाम खेब मिखाम बिबाय थायो",
+  "question_roman": "Srownay khokhay badi; sanfrombo tham kheb mikham bibay thayw",
+  "question_hi": "अंदर एक थैली है जो दिन में तीन बार खाना मांगती है; खाली हो जाए तो गुड़गुड़ाने लगती है। बताओ क्या?",
+  "question_en": "A soft expandable sack demanding meals thrice daily; rumbles noisily when empty. What is it?",
+  "answer_bodo": "उदै",
+  "answer_roman": "Udwi",
+  "answer_hi": "पेट / उदर",
+  "answer_en": "Stomach",
+  "cultural_note": "Needs daily sustenance.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

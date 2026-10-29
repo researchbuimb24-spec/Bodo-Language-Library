@@ -1,0 +1,17 @@
+{
+  "id": "RID-177",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "बिफांनि चक्र, लोहानि बिगुर; मैनि गारिखौ सालायो",
+  "question_roman": "Bifangni cokro, lohani bigur; maini garikhw salayw",
+  "question_hi": "लकड़ी का गोल पहिया, लोहे का कड़ा चढ़ा है; धान से भरी भारी बैलगाड़ी को खींच ले जाता है। बताओ क्या?",
+  "question_en": "Heavy wooden wheel rimmed with solid iron, rolling laden harvest carts across mud tracks. What is it?",
+  "answer_bodo": "गारि साखा",
+  "answer_roman": "Gari sakha",
+  "answer_hi": "बैलगाड़ी का पहिया",
+  "answer_en": "Bullock Cart Wheel",
+  "cultural_note": "Moves grain to village storehouses.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

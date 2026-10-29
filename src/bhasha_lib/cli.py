@@ -1,4 +1,11 @@
-"""Command-line interface for Bodo language translation."""
+"""Command-line interface for Bodo language translation.
+
+💡 FILE INSIGHT & PURPOSE:
+Implements the console command `bodo-translate` and CLI argument parser.
+Allows users to translate text between Bodo and English/Hindi, detect language,
+switch between online (Google GTX) and offline SQLite morphological engines,
+and execute batch translations from the terminal.
+"""
 
 from __future__ import annotations
 
@@ -71,7 +78,7 @@ def main(argv: list[str] | None = None) -> int:
     )
 
     if args.detect:
-        detected_lang = translator.detect(raw_text)
+        detected_lang = translator.detect(raw_text, offline=args.offline)
         print(detected_lang)
         return 0
 

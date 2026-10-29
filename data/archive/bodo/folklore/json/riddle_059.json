@@ -1,0 +1,17 @@
+{
+  "id": "RID-059",
+  "theme": "flora_plants",
+  "theme_title_en": "Theme 2: Flora, Trees, Wild Plants & Forest Harvests",
+  "theme_title_hi": "विषय 2: वनस्पति, पेड़-पौधे और जंगल के फल",
+  "theme_title_bodo": "थिम 2: बिफां-लाइफां आरो हाग्रानि फिथा",
+  "question_bodo": "हादा गेजेराव ओंखारो, गिख्रोंथाइ गैया; गोजा-गुफुर बिबार गोजौआव बारो",
+  "question_roman": "Hada gejerao onkharw, gikhronthai gaya; gwja-gufur bibar gojwao barw",
+  "question_hi": "कीचड़ के बीच से निकलता है पर कीचड़ का एक दाग नहीं लगता; ऊपर सुंदर गुलाबी-सफेद फूल खिलता है। बताओ क्या?",
+  "question_en": "Roots sink deep in muddy pond beds, yet its blossoms rise pristine and unstained above the water. What is it?",
+  "answer_bodo": "पंखज / फुरोन बिबार",
+  "answer_roman": "Pankhaj / Furon bibar",
+  "answer_hi": "कमल का फूल",
+  "answer_en": "Lotus",
+  "cultural_note": "Emblem of purity and spiritual awakening.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

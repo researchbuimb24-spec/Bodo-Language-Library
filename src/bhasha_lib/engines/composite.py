@@ -1,4 +1,10 @@
-"""Composite translation engine coordinating online service and offline fallback."""
+"""Composite translation engine coordinating online service and offline fallback.
+
+💡 FILE INSIGHT & PURPOSE:
+Implements the hybrid resilient translation pipeline (`CompositeBodoEngine`).
+Attempts online neural translation first (Google GTX); if offline mode is requested
+or network errors occur, seamlessly falls back to the deterministic local offline engine.
+"""
 
 from __future__ import annotations
 

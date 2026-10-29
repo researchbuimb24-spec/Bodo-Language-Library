@@ -1,0 +1,379 @@
+{
+  "title": "Bodo Number System: Cardinals, Ordinals, Fractions & Classifiers",
+  "language": "Bodo (brx)",
+  "cardinals": [
+    {
+      "num": 0,
+      "dev": "लथिक",
+      "rom": "lwthikh",
+      "hi": "शून्य (०)",
+      "en": "Zero (0)"
+    },
+    {
+      "num": 1,
+      "dev": "से",
+      "rom": "se",
+      "hi": "एक (१)",
+      "en": "One (1)"
+    },
+    {
+      "num": 2,
+      "dev": "नै",
+      "rom": "nwi",
+      "hi": "दो (२)",
+      "en": "Two (2)"
+    },
+    {
+      "num": 3,
+      "dev": "थाम",
+      "rom": "tham",
+      "hi": "तीन (३)",
+      "en": "Three (3)"
+    },
+    {
+      "num": 4,
+      "dev": "ब्रै",
+      "rom": "brwi",
+      "hi": "चार (४)",
+      "en": "Four (4)"
+    },
+    {
+      "num": 5,
+      "dev": "बा",
+      "rom": "ba",
+      "hi": "पाँच (५)",
+      "en": "Five (5)"
+    },
+    {
+      "num": 6,
+      "dev": "द'",
+      "rom": "doh",
+      "hi": "छह (६)",
+      "en": "Six (6)"
+    },
+    {
+      "num": 7,
+      "dev": "स्नि",
+      "rom": "sni",
+      "hi": "सात (७)",
+      "en": "Seven (7)"
+    },
+    {
+      "num": 8,
+      "dev": "दाइन",
+      "rom": "dain",
+      "hi": "आठ (८)",
+      "en": "Eight (8)"
+    },
+    {
+      "num": 9,
+      "dev": "गु",
+      "rom": "gu",
+      "hi": "नौ (९)",
+      "en": "Nine (9)"
+    },
+    {
+      "num": 10,
+      "dev": "जि",
+      "rom": "ji",
+      "hi": "दस (१०)",
+      "en": "Ten (10)"
+    },
+    {
+      "num": 11,
+      "dev": "जिसे",
+      "rom": "jise",
+      "hi": "ग्यारह (११)",
+      "en": "Eleven (11)"
+    },
+    {
+      "num": 12,
+      "dev": "जिनै",
+      "rom": "jinwi",
+      "hi": "बारह (१२)",
+      "en": "Twelve (12)"
+    },
+    {
+      "num": 13,
+      "dev": "जिथाम",
+      "rom": "jitham",
+      "hi": "तेरह (१३)",
+      "en": "Thirteen (13)"
+    },
+    {
+      "num": 14,
+      "dev": "जिब्रै",
+      "rom": "jibrwi",
+      "hi": "चौदह (१४)",
+      "en": "Fourteen (14)"
+    },
+    {
+      "num": 15,
+      "dev": "जिबा",
+      "rom": "jiba",
+      "hi": "पंद्रह (१५)",
+      "en": "Fifteen (15)"
+    },
+    {
+      "num": 16,
+      "dev": "जिद'",
+      "rom": "jidoh",
+      "hi": "सोलह (१६)",
+      "en": "Sixteen (16)"
+    },
+    {
+      "num": 17,
+      "dev": "जिस्नि",
+      "rom": "jisni",
+      "hi": "सत्रह (१७)",
+      "en": "Seventeen (17)"
+    },
+    {
+      "num": 18,
+      "dev": "जिदान्थि",
+      "rom": "jidain",
+      "hi": "अठारह (१८)",
+      "en": "Eighteen (18)"
+    },
+    {
+      "num": 19,
+      "dev": "जिगु",
+      "rom": "jigu",
+      "hi": "उन्नीस (१९)",
+      "en": "Nineteen (19)"
+    },
+    {
+      "num": 20,
+      "dev": "नैजि",
+      "rom": "nwiji",
+      "hi": "बीस (२०)",
+      "en": "Twenty (20)"
+    },
+    {
+      "num": 21,
+      "dev": "नैजिसे",
+      "rom": "nwijise",
+      "hi": "इक्कीस (२१)",
+      "en": "Twenty-one (21)"
+    },
+    {
+      "num": 25,
+      "dev": "नैजिबा",
+      "rom": "nwijiba",
+      "hi": "पच्चीस (२५)",
+      "en": "Twenty-five (25)"
+    },
+    {
+      "num": 30,
+      "dev": "थामजि",
+      "rom": "thamji",
+      "hi": "तीस (३०)",
+      "en": "Thirty (30)"
+    },
+    {
+      "num": 40,
+      "dev": "ब्रैजि",
+      "rom": "brwiji",
+      "hi": "चालीस (४०)",
+      "en": "Forty (40)"
+    },
+    {
+      "num": 50,
+      "dev": "बाजि",
+      "rom": "baji",
+      "hi": "पचास (५०)",
+      "en": "Fifty (50)"
+    },
+    {
+      "num": 60,
+      "dev": "द'जि",
+      "rom": "dohji",
+      "hi": "साठ (६०)",
+      "en": "Sixty (60)"
+    },
+    {
+      "num": 70,
+      "dev": "स्निजि",
+      "rom": "sniji",
+      "hi": "सत्तर (७०)",
+      "en": "Seventy (70)"
+    },
+    {
+      "num": 80,
+      "dev": "दाइनजि",
+      "rom": "dainji",
+      "hi": "अस्सी (८०)",
+      "en": "Eighty (80)"
+    },
+    {
+      "num": 90,
+      "dev": "गुजि",
+      "rom": "guji",
+      "hi": "नब्बे (९०)",
+      "en": "Ninety (90)"
+    },
+    {
+      "num": 100,
+      "dev": "जौसे",
+      "rom": "jouse",
+      "hi": "एक सौ (१००)",
+      "en": "One Hundred (100)"
+    },
+    {
+      "num": 500,
+      "dev": "बाजौ",
+      "rom": "bajou",
+      "hi": "पाँच सौ (५००)",
+      "en": "Five Hundred (500)"
+    },
+    {
+      "num": 1000,
+      "dev": "रोजासे",
+      "rom": "rwzase",
+      "hi": "एक हज़ार (१०००)",
+      "en": "One Thousand (1,000)"
+    },
+    {
+      "num": 100000,
+      "dev": "लाखसे",
+      "rom": "lakhse",
+      "hi": "एक लाख (१,००,०००)",
+      "en": "One Hundred Thousand (100,000)"
+    },
+    {
+      "num": 10000000,
+      "dev": "कौटिसे",
+      "rom": "koutise",
+      "hi": "एक करोड़ (१,००,००,०००)",
+      "en": "Ten Million (10,000,000)"
+    }
+  ],
+  "ordinals": [
+    {
+      "order": "1st",
+      "dev": "गिबि",
+      "rom": "gibi",
+      "hi": "पहला / प्रथम",
+      "en": "First"
+    },
+    {
+      "order": "2nd",
+      "dev": "नैथि",
+      "rom": "nwithi",
+      "hi": "दूसरा / द्वितीय",
+      "en": "Second"
+    },
+    {
+      "order": "3rd",
+      "dev": "थामथि",
+      "rom": "thamthi",
+      "hi": "तीसरा / तृतीय",
+      "en": "Third"
+    },
+    {
+      "order": "4th",
+      "dev": "ब्रैथि",
+      "rom": "brwithi",
+      "hi": "चौथा / चतुर्थ",
+      "en": "Fourth"
+    },
+    {
+      "order": "5th",
+      "dev": "बाथि",
+      "rom": "bathi",
+      "hi": "पाँचवाँ / पंचम",
+      "en": "Fifth"
+    },
+    {
+      "order": "6th",
+      "dev": "द'थि",
+      "rom": "dohthi",
+      "hi": "छठा / षष्ठ",
+      "en": "Sixth"
+    },
+    {
+      "order": "7th",
+      "dev": "स्निथि",
+      "rom": "snithi",
+      "hi": "सातवाँ / सप्तम",
+      "en": "Seventh"
+    },
+    {
+      "order": "8th",
+      "dev": "दाइनथि",
+      "rom": "dainthi",
+      "hi": "आठवाँ / अष्टम",
+      "en": "Eighth"
+    },
+    {
+      "order": "9th",
+      "dev": "गुथि",
+      "rom": "guthi",
+      "hi": "नौवाँ / नवम",
+      "en": "Ninth"
+    },
+    {
+      "order": "10th",
+      "dev": "जिथि",
+      "rom": "jithi",
+      "hi": "दसवाँ / दशम",
+      "en": "Tenth"
+    }
+  ],
+  "fractions": [
+    {
+      "fraction": "1/2",
+      "dev": "खावसे",
+      "rom": "khaose",
+      "hi": "आधा",
+      "en": "Half"
+    },
+    {
+      "fraction": "1/4",
+      "dev": "ब्रै बाहागोनि से",
+      "rom": "brwi bahagoni se",
+      "hi": "एक चौथाई",
+      "en": "One-fourth / Quarter"
+    },
+    {
+      "fraction": "3/4",
+      "dev": "ब्रै बाहागोनि थाम",
+      "rom": "brwi bahagoni tham",
+      "hi": "तीन चौथाई",
+      "en": "Three-quarters"
+    },
+    {
+      "fraction": "1/3",
+      "dev": "थाम बाहागोनि से",
+      "rom": "tham bahagoni se",
+      "hi": "एक तिहाई",
+      "en": "One-third"
+    }
+  ],
+  "classifier_rules": [
+    {
+      "classifier": "सा (sa)",
+      "rule": "Affixed to count human beings: सा-से (1 person), सा-नै (2 persons), सा-थाम (3 persons)."
+    },
+    {
+      "classifier": "मा (ma)",
+      "rule": "Affixed to count animals, birds, insects: मा-से (1 animal), मा-नै (2 animals)."
+    },
+    {
+      "classifier": "गं (gong)",
+      "rule": "Affixed to count dwellings, musical instruments, boats: गं-से न (1 house), गं-से खाम (1 drum)."
+    },
+    {
+      "classifier": "थाइ (thai)",
+      "rule": "Affixed to count spherical fruits, rounded objects: थाइ-से (1 fruit)."
+    },
+    {
+      "classifier": "गां (gang)",
+      "rule": "Affixed to count flat, leaf-like items, clothes, sheets: गां-से (1 sheet/cloth)."
+    },
+    {
+      "classifier": "खेब (kheb)",
+      "rule": "Multiplicative frequency / occurrences: खेब-से (once), खेब-नै (twice), खेब-थाम (thrice)."
+    }
+  ]
+}

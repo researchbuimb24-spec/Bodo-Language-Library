@@ -1,0 +1,33 @@
+{
+  "title": "Bodo Oral Histories, Ancient Dynasties & Political Accords",
+  "language": "Bodo (brx)",
+  "ancient_kingdoms": [
+    {
+      "kingdom": "Kachari Kingdom of Dimapur & Maibang",
+      "period": "10th Century – 1854",
+      "overview": "Ruled by Kachari kings across the Dhansiri valley and Cachar hills. Left magnificent monolith pillar monuments at Dimapur, palace fortifications at Maibang, and river palaces at Khaspur."
+    },
+    {
+      "kingdom": "Kamata & Koch-Mech Hegemony",
+      "period": "15th – 16th Century",
+      "overview": "Close kinship between Koch and Mech lineages culminating in the military genius of General Chilarai and Maharaj Nara Narayana, patronizing early vernacular translations."
+    }
+  ],
+  "modern_political_accords": [
+    {
+      "accord": "Bodoland Autonomous Council (BAC) Accord",
+      "year": 1993,
+      "significance": "First formal tripartite accord establishing administrative autonomy for Bodo areas north of the Brahmaputra."
+    },
+    {
+      "accord": "Bodoland Territorial Council (BTC) Sixth Schedule Accord",
+      "year": 2003,
+      "significance": "Historic accord creating the autonomous Bodoland Territorial Region (BTR) under the Sixth Schedule of the Indian Constitution, directly accompanied by Bodo language recognition under the Eighth Schedule."
+    },
+    {
+      "accord": "Comprehensive Bodo Peace Accord (BTR Accord)",
+      "year": 2020,
+      "significance": "Landmark peace accord signed between the Union Government, Assam State, and all NDFB factions, securing comprehensive cultural, economic, and educational development."
+    }
+  ]
+}

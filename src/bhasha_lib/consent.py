@@ -1,4 +1,10 @@
-"""Ethical consent verification and compliance module for oral literature and audio."""
+"""Ethical consent verification and compliance module for oral literature and audio.
+
+💡 FILE INSIGHT & PURPOSE:
+Encapsulates Indigenous data sovereignty and informed consent models for audio and oral heritage.
+Defines `ConsentStatus` (unknown, pending, granted, denied, withdrawn), `ConsentRecord` with 5 granular
+permission flags, physical/digital consent document hash verification, and formal withdrawal mechanics.
+"""
 
 from __future__ import annotations
 

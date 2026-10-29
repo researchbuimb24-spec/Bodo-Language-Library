@@ -1,3 +1,7 @@
+# 💡 File Insight & Purpose:
+# Package build specification and metadata for bhasha_lib: defines project dependencies
+# (pyyaml, requests), dev tools (pytest, ruff), package scripts (bodo-translate), and package finders.
+
 [build-system]
 requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"

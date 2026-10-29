@@ -1,4 +1,10 @@
-"""Google GTX translation engine implementation."""
+"""Google GTX translation engine implementation.
+
+💡 FILE INSIGHT & PURPOSE:
+Online translation client (`GoogleGTXEngine`) connecting to Google Translate's GTX endpoint.
+Supports Bodo (`brx`) with automated user-agent rotation, retry backoff, and response
+JSON parsing for robust online translation and automatic language detection.
+"""
 
 from __future__ import annotations
 

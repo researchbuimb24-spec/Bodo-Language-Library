@@ -1,0 +1,102 @@
+{
+  "title": "Bodo Literature, Poetry & Literary Luminaries",
+  "language": "Bodo (brx)",
+  "literary_periods": [
+    {
+      "period": "Pre-Bibar Era (Before 1920)",
+      "theme": "Oral epics, Bathou devotional chants, folk ballads and early missionary translations."
+    },
+    {
+      "period": "Bibar Era (1920-1935)",
+      "theme": "Renaissance of written Bodo literature sparked by Gurudev Kalicharan Brahma, Bibar journal (1924), and student congresses."
+    },
+    {
+      "period": "Post-Independence & Sabha Era (1952-1980)",
+      "theme": "Establishment of Bodo Sahitya Sabha (1952), script movement, school textbooks, and social realism in poetry."
+    },
+    {
+      "period": "Contemporary & Eighth Schedule Era (1980-Present)",
+      "theme": "Recognition under Eighth Schedule (2003), Sahitya Akademi awards, modern novels, and literary critique."
+    }
+  ],
+  "prominent_authors": [
+    {
+      "name": "Gurudev Kalicharan Brahma",
+      "life": "1860–1938",
+      "role": "Social reformer, philosopher, pioneer of Bodo social renaissance and Brahma Dharma movement."
+    },
+    {
+      "name": "Satish Chandra Basumatary",
+      "life": "1901–1974",
+      "role": "Chief editor of 'Bibar' (1924), dramatist, songwriter, pioneer of modern Bodo drama."
+    },
+    {
+      "name": "Modaram Brahma",
+      "life": "1903–1973",
+      "role": "Eminent poet, dramatist, educationist; composer of prayers, Padma Shri recipient."
+    },
+    {
+      "name": "Rupnath Brahma",
+      "life": "1902–1968",
+      "role": "Statesman, poet, dramatist; author of early mystic songs and religious texts."
+    },
+    {
+      "name": "Kamal Kumar Brahma",
+      "life": "1929–2006",
+      "role": "Distinguished dramatist, folklorist, pioneer of modern Bodo theatre."
+    },
+    {
+      "name": "Bihuram Boro",
+      "life": "1932–2000",
+      "role": "Poet, linguist, author of critical treatises on Bodo syntax and prosody."
+    },
+    {
+      "name": "Dharanidhar Wary",
+      "life": "1923–2008",
+      "role": "Folklorist, collector of Bodo folktales, Sahitya Akademi awardee."
+    },
+    {
+      "name": "Nilkamal Brahma",
+      "life": "1944–1998",
+      "role": "Renowned short story writer, master of Bodo prose and social portrayal."
+    }
+  ],
+  "anthology_poems": [
+    {
+      "id": "poem_1",
+      "title_dev": "बैसागुनि बार",
+      "title_rom": "Bwisagu Ni Bar",
+      "title_en": "The Breeze of Spring (Bwisagu)",
+      "poet": "Modaram Brahma",
+      "period": "Bibar Era",
+      "devanagari_verse": "बैसागुनि बार बाबाय, गोदान बोथोर फैबाय,\nदैसा-दैयाव दै बुंफबबाय, बिबार बारबाय दैमा सेराव।\nगोबां साननि उनाव बोथोर सिलायबाय,\nमानसिफोरनि गोसोआव रंजानाय बुंफबबाय।",
+      "roman_transcription": "Bwisagu ni bar babay, gwdan bwthwr fwibay,\nDwisao-dwyao dwi bungfwbbay, bibar barbay dwima serao.\nGwbaw sanni unao bwthwr silaybay,\nMansiphorni goswao rwangjanay bungfwbbay.",
+      "english_translation": "The gentle breeze of spring has whispered; the new year has dawned,\nStreams swell with fresh mountain water; blossoms unveil along the riverbank.\nAfter long weary days the winter season departs,\nAnd radiant joy fills every beating human heart.",
+      "theme": "Nature renewal, New Year joyous awakening, pastoral bliss."
+    },
+    {
+      "id": "poem_2",
+      "title_dev": "आं बर'",
+      "title_rom": "Ang Boro",
+      "title_en": "I am a Bodo",
+      "poet": "Satish Chandra Basumatary",
+      "period": "Renaissance Period",
+      "devanagari_verse": "आं बर', आं बर' हारिनि फिसा,\nहाग्रामायाव आंनि जोनोम, दैमायाव आंनि गोजां जिउ।\nगिबि बैसोनिफ्राय आं गावनि हारिखौ मोजां मोनो,\nबाथौनि सिजौ गांसेयाव आंनि जिउनि सिमां।",
+      "roman_transcription": "Ang Boro, ang Boro harini fisa,\nHagramayao angni jwnwm, dwimayao angni gwojang jiu.\nGibi bwisonifray ang gawni harikhwo mwjang mwnw,\nBathouni Sijou gangseyao angni jiuni simang.",
+      "english_translation": "I am Bodo, son of an ancient lineage,\nBorn of the deep wild woodlands, nurtured by crystalline streams.\nFrom early infancy I hold my community dear to my soul,\nIn the sacred five ribs of the Sijou tree resides my life's vision.",
+      "theme": "Indigenous identity, dignity, devotion to ancestral roots."
+    },
+    {
+      "id": "poem_3",
+      "title_dev": "मैनाव दावबायनाय",
+      "title_rom": "Mainao Daobaynay",
+      "title_en": "The Golden Flight of Mainao",
+      "poet": "Traditional Folk Bard",
+      "period": "Traditional Liturgical",
+      "devanagari_verse": "मैनाव बुरै फैबाय दैमा बासिनानै,\nमाइबाख्रियाव बाहागो होफैबाय रंजानानै।\nदंफांनि गांसे बिलाइयावबो दावसि मोसादों,\nआथिखालनि संसारआव बर'नि मैनाव गोजोन होफैबाय।",
+      "roman_transcription": "Mainao burwi fwibay dwima basinanwi,\nMaibakhriyao bahagw hwfwibay rwangjananwi.\nDongfangni gangse bilaiyaobo daosi mosadwng,\nAthikhalni swnsarao Bworoni Mainao gwojwn hwfwibay.",
+      "english_translation": "Mother Mainao descends across gentle flowing waters,\nFilling empty granaries with golden abundance and mirth.\nUpon every woodland leaf the birds flutter in graceful dance,\nGranting tranquility and blessing to the Bodo hearth.",
+      "theme": "Devotional adoration of agricultural providence."
+    }
+  ]
+}

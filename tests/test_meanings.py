@@ -13,13 +13,16 @@ from bhasha_lib.meanings import (
     CONTEXT_1_COL,
     CONTEXT_2_COL,
     CSV_FIELDNAMES,
+    REQUIRED_CSV_FIELDS,
     export_for_review,
     get_meanings_stats,
     get_progress_stats,
     import_meanings,
+    import_reviewed_csv,
     main,
     print_progress,
     print_stats,
+    validate_review_csv,
 )
 
 
@@ -289,6 +292,13 @@ def test_export_source_id_filtering(tmp_path):
     """Verify --source-id filters only words with occurrences from that source."""
     db_file = tmp_path / "source_filter.sqlite"
     init_db(db_file)
+    with get_connection(db_file) as conn:
+        conn.execute(
+            """
+            INSERT INTO sources (id, title, license)
+            VALUES (10, 'Source 10', 'CC-BY'), (2, 'Source 2', 'CC-BY')
+            """
+        )
 
     add_word(word="word_source_10", db_path=db_file)
     add_occurrence(
@@ -324,6 +334,10 @@ def test_export_with_context_columns(tmp_path):
     """Verify context columns are filled from occurrences and empty when none exist."""
     db_file = tmp_path / "context_test.sqlite"
     init_db(db_file)
+    with get_connection(db_file) as conn:
+        conn.execute(
+            "INSERT INTO sources (id, title, license) VALUES (10, 'Source 10', 'CC-BY')"
+        )
 
     add_word(word="word_with_ctx", db_path=db_file)
     add_occurrence(
@@ -398,6 +412,10 @@ def test_import_with_context_columns_and_old_layout(tmp_path):
     """Verify import ignores context columns and old layout still imports cleanly."""
     db_file = tmp_path / "import_compat.sqlite"
     init_db(db_file)
+    with get_connection(db_file) as conn:
+        conn.execute(
+            "INSERT INTO sources (id, title, license) VALUES (10, 'Source 10', 'CC-BY')"
+        )
 
     add_word(word="word_ctx_test", db_path=db_file)
     add_occurrence(
@@ -583,6 +601,10 @@ def test_only_without_occurrences_and_exclude_origin(tmp_path):
     """Verify --only-without-occurrences and --exclude-origin options."""
     db_file = tmp_path / "filters.sqlite"
     init_db(db_file)
+    with get_connection(db_file) as conn:
+        conn.execute(
+            "INSERT INTO sources (id, title, license) VALUES (1, 'Source 1', 'CC-BY')"
+        )
 
     add_word(word="has_occ", origin="bodo", db_path=db_file)
     add_occurrence(
@@ -767,3 +789,109 @@ def test_progress_counts_are_right(tmp_path, capsys):
     cli_code = main(["progress", "--db", str(db_file)])
     assert cli_code == 0
 
+
+def test_validate_review_csv(tmp_path):
+    """Validation of review CSV headers and file existence."""
+    # File not found
+    with pytest.raises(FileNotFoundError):
+        validate_review_csv(tmp_path / "nonexistent.csv")
+
+    # Missing required header
+    bad_csv = tmp_path / "bad.csv"
+    with open(bad_csv, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["word", "meaning_hi"])
+        writer.writeheader()
+    with pytest.raises(ValueError, match="Missing required CSV headers"):
+        validate_review_csv(bad_csv)
+
+    # Valid CSV headers
+    good_csv = tmp_path / "good.csv"
+    with open(good_csv, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(REQUIRED_CSV_FIELDS))
+        writer.writeheader()
+    assert validate_review_csv(good_csv) is True
+
+
+def test_import_reviewed_csv_workflow_and_preservation(tmp_path):
+    """Review CSV import validates approvals, dry run writes nothing,
+    and preserves original file.
+    """
+    db_file = tmp_path / "review_flow.sqlite"
+    init_db(db_file)
+
+    add_word(word="word1", db_path=db_file)
+    add_word(word="word2", db_path=db_file)
+
+    csv_file = tmp_path / "review_input.csv"
+    with open(csv_file, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=[*CSV_FIELDNAMES, "status"])
+        writer.writeheader()
+        # Row 1: Valid approved review
+        writer.writerow(
+            {
+                "word": "word1",
+                "meaning_hi": "अर्थ1",
+                "meaning_en": "meaning1",
+                "status": "community",
+                "origin": "bodo",
+                "verified_by": "Reviewer Alice",
+            }
+        )
+        # Row 2: Incomplete (no meaning, no reviewer) -> should be skipped
+        writer.writerow(
+            {
+                "word": "word2",
+                "meaning_hi": "",
+                "meaning_en": "",
+                "status": "unverified",
+                "verified_by": "",
+            }
+        )
+        # Row 3: Has meaning but lacks verified_by -> must be rejected
+        writer.writerow(
+            {
+                "word": "word_unreviewed",
+                "meaning_hi": "अनधिकृत",
+                "meaning_en": "unreviewed",
+                "verified_by": "",
+            }
+        )
+
+    # Read original file bytes to ensure strict preservation
+    original_bytes = csv_file.read_bytes()
+
+    # 1. Dry run
+    res_dry = import_reviewed_csv(csv_file, db_file, dry_run=True)
+    assert res_dry["would_update"] == 1
+    assert res_dry["skipped"] == 1
+    assert res_dry["rejected"] == 1
+    assert res_dry["conflicts"] == 0
+
+    # Ensure DB was not modified
+    w1_before = search_word("word1", db_path=db_file)
+    assert w1_before["meaning_hi"] is None
+    assert w1_before["status"] == "unverified"
+
+    # Ensure CSV was not modified or deleted
+    assert csv_file.read_bytes() == original_bytes
+
+    # 2. Approved import
+    res_import = import_reviewed_csv(csv_file, db_file, dry_run=False)
+    assert res_import["updated"] == 1
+    assert res_import["skipped"] == 1
+    assert res_import["rejected"] == 1
+
+    # Verify word1 is now updated
+    w1_after = search_word("word1", db_path=db_file)
+    assert w1_after["meaning_hi"] == "अर्थ1"
+    assert w1_after["meaning_en"] == "meaning1"
+    assert w1_after["status"] == "community"
+    assert w1_after["origin"] == "bodo"
+
+    # word2 remains unchanged
+    w2 = search_word("word2", db_path=db_file)
+    assert w2["meaning_hi"] is None
+    assert w2["status"] == "unverified"
+
+    # CSV remains untouched
+    assert csv_file.read_bytes() == original_bytes

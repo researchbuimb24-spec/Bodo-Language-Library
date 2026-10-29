@@ -1,0 +1,42 @@
+{
+  "title": "Bodo Traditional Cuisine & Indigenous Gastronomy",
+  "description": "Culinary traditions emphasizing indigenous fermentation, wild medicinal greens, alkali ash water, and zero-oil cooking techniques.",
+  "dishes": [
+    {
+      "name": "Napham (नाफाम)",
+      "type": "Fermented Delicacy",
+      "ingredients": "Small indigenous river fish, powdered taro stem, dried wild herbs.",
+      "preparation": "Fish is cleaned, pounded with seasoned dried taro and spices, sealed air-tight inside bamboo internodes for several months to mature into a rich umami paste."
+    },
+    {
+      "name": "Oma jwng narjwi (अमा जों नारजै)",
+      "type": "Signature Meat Dish",
+      "ingredients": "Pork, sun-dried jute leaves (narjwi), green chilies, ginger-garlic.",
+      "preparation": "Pork pieces are simmered with dry bitter jute leaves until a savory, mildly bitter, aromatic gravy forms, famous for cooling the body in humid summers."
+    },
+    {
+      "name": "Kharwi / Gwka (खारवि / गोखा)",
+      "type": "Alkaline Broth",
+      "ingredients": "Plantain tree peel ash water (Kharwi), seasonal vegetables, small fish.",
+      "preparation": "Water filtered through the ash of sun-dried banana peels produces a golden alkaline liquid with distinct medicinal properties, cooked with bitter vegetables or wild spinach."
+    },
+    {
+      "name": "Sobai jwng oma (सबाय जों अमा)",
+      "type": "Festive Stew",
+      "ingredients": "Black gram (sobai), pork or duck meat, indigenous spices.",
+      "preparation": "Black lentils slow-cooked with fresh pork over wood fire into a thick hearty stew, ubiquitous during Bwisagu and wedding feasts."
+    },
+    {
+      "name": "Mwitha jwng dao (मैथा जों दाव)",
+      "type": "Tangy Poultry Dish",
+      "ingredients": "Local country chicken, sour roselle leaves (mwitha).",
+      "preparation": "Country chicken cooked with young sour roselle leaves, creating a bright tangy broth aiding digestion."
+    },
+    {
+      "name": "Jou & Amaw (जौ आरो आमाव)",
+      "type": "Traditional Fermented Beverage",
+      "ingredients": "Rice, indigenous medicinal herbs (Emao starter cakes).",
+      "preparation": "Steamed glutinous rice mixed with wild medicinal starter cakes and fermented in earthen pots into two forms: Jou Gwran (potent spirit) and Jou Gisi (sweet refreshing beer)."
+    }
+  ]
+}

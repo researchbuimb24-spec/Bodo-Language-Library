@@ -1,0 +1,17 @@
+{
+  "id": "RID-182",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "आथिं गैया, हादायाव स्रौयो; बिफांनि लथ'फोरखौ लाबोयो",
+  "question_roman": "Athing gaya, hadayao srowyw; bifangni lwthwforkhw labwyw",
+  "question_hi": "पहिए नहीं हैं, दलदल में फिसलती चलती है; जंगल से भारी लकड़ी के कुंदे खींच लाती है। बताओ क्या?",
+  "question_en": "Wheelless wooden sledge sliding across mud and grass bearing heavy forest logs. What is it?",
+  "answer_bodo": "गादा-गारि",
+  "answer_roman": "Gada-gari",
+  "answer_hi": "स्लेज / लकड़ी ढोने की बिना पहिए की गाड़ी",
+  "answer_en": "Wooden Mud Sledge",
+  "cultural_note": "Navigates marshy terrain.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

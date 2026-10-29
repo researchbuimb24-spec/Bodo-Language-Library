@@ -1,4 +1,10 @@
-"""Unicode range and script processing utilities for bhasha_lib."""
+"""Unicode range and script processing utilities for bhasha_lib.
+
+💡 FILE INSIGHT & PURPOSE:
+Validates and processes Unicode script boundaries for Indian languages.
+Includes hex range parsing (`0900-097F` for Devanagari), Devanagari character verification,
+script coverage calculation, and filtering to ensure linguistic corpus data integrity.
+"""
 
 from __future__ import annotations
 

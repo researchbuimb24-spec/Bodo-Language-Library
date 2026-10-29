@@ -1,0 +1,17 @@
+{
+  "id": "RID-221",
+  "theme": "human_body",
+  "theme_title_en": "Theme 7: Human Body, Senses & Lifecycle",
+  "theme_title_hi": "विषय 7: मानव शरीर, इंद्रियां और जीवन-चक्र",
+  "theme_title_bodo": "थिम 7: मानसि देहा, मेगन-खोमा आरो जिव",
+  "question_bodo": "गलैयाव एम्बु बादि बाखौयो; हिक-हिक सोदोब फैयो",
+  "question_roman": "Glayao embu badi bakhwyw; hik-hik swdwb fwyw",
+  "question_hi": "गले में नन्हा मेंढक जैसा उछलता है; हिक-हिक की आवाज आती है, पानी पीने पर शांत होता है। बताओ क्या?",
+  "question_en": "Involuntary spasm jumping in the chest making repetitive clicking sounds until water is drunk. What is it?",
+  "answer_bodo": "हिखुं",
+  "answer_roman": "Hikhung",
+  "answer_hi": "हिचकी",
+  "answer_en": "Hiccup",
+  "cultural_note": "Stopped with a drink of water.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

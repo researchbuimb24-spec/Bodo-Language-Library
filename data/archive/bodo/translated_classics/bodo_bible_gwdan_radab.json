@@ -1,0 +1,43 @@
+{
+  "title": "Boro Bible: Gwdan Radab (New Testament) & Agan Radab (Old Testament)",
+  "tradition": "Christian Holy Scripture in Bodo",
+  "translators": "Rev. C. Bechtold (1906), Rev. A. Kristiansen (1935), Bible Society of India (BSI)",
+  "structure": [
+    {
+      "testament": "Old Testament (आगान रादाब / Agan Radab)",
+      "books_count": 39,
+      "key_books": "Genesis (सिर्जिनाय), Exodus (ओंखारनाय), Psalms (थुबुर मेथाइ), Proverbs (बाथ्रा फाव), Isaiah (यशायाह)."
+    },
+    {
+      "testament": "New Testament (गोदान रादाब / Gwdan Radab)",
+      "books_count": 27,
+      "key_books": "Matthew (माथिय), Mark (मार्क), Luke (लुक), John (जहन), Acts (थायनाय), Romans (रोमिया), Revelation (फोसावनाय)."
+    }
+  ],
+  "key_scriptures": [
+    {
+      "ref": "Genesis 1:1 (सिर्जिनाय १:१)",
+      "bodo_dev": "गिबियाव इसोरा अख्रां आरो हाखौ सिर्जिबाय।",
+      "bodo_rom": "Gibiyao Iswra okhrang aro hakhwo sirjibay.",
+      "english": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "ref": "John 3:16 (जहन ३:१६)",
+      "bodo_dev": "मानोना इसोरा बुहुमखौ एसेबां मोजां मोनबाय, जे बिहा गावनि सासेल' फिसाखौ हरबाय, जाहाथे बियाव फोथायग्रा गासैबो गोमाना थाङा, नाथाय जोबनो गैयै जिउ मोनगोन।",
+      "bodo_rom": "Manwna Iswra buhumkhwo esebang mwjang mwnbay, je biha gawni saselw fisakhwo hwrbay, jahathe biyao fothaygra gasaybw gwmana thanga, nathay jwbnw gwywi jiu mwngwn.",
+      "english": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    },
+    {
+      "ref": "The Lord's Prayer (इसोरनि आरज / Matthew 6:9-13)",
+      "bodo_dev": "हे जोंनि अख्रांनि आफा,\nनोंथांनि मुङा मोजांयै मान मोनथों;\nनोंथांनि राज्योआ फैथों;\nजेरै अख्राङाव एरैनो हायावबो नोंथांनि गोसोआ जाफुंथों।\nदिनैनि दिनआव जोंनो जाग्रा मैखाम हरदो;\nआरो जों जोंनो पाप खालामग्राफोरखौ जेरै निमाहा होयो,\nएरैनो जोंनि दायफोरखौबो निमाहा होदो।\nजोंखौ आनजादाव दालां, नाथाय गाज्रिनिफ्राय रैखा खालामदो।\nमानोना राज्यो, शक्ति आरो मान जोबनो गैयै समावबो नोंथांनिसो। आमेन।",
+      "bodo_rom": "He jwngni okhrangni Afa,\nNwhnthangni munga mwjangwi man mwnthwng;\nNwhnthangni rajywa fwithwng;\nJerwi okhrangao erwino hayawbw nwhnthangni gwswoa jafungthwng.\nDinwini dinao jwngnw jagra mikham hwrdo;\nAro jwng jwngnw pap khalamgraphorkhwo jerwi nimaha hwyo,\nErwino jwngni dayphorkhwobw nimaha hwdo.\nJwngkhwo anjadao dalang, nathay gajrinifray rwikhwa khalamdo.\nManwna rajyo, sokti aro man jwbnw gwywi smawbw nwhnthangnisw. Amen.",
+      "english": "Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+    },
+    {
+      "ref": "Psalm 23:1 (थुबुर मेथाइ २३:१)",
+      "bodo_dev": "प्रभुवा आंनि गोजां गोजां दावथुआ, आंहा जेबोनिबो गोमानाय जानो हाया।",
+      "bodo_rom": "Probhuwa angni gwojang gwojang daothua, angha jebwnibw gwmanay janw haya.",
+      "english": "The Lord is my shepherd; I shall not want."
+    }
+  ]
+}

@@ -1,4 +1,11 @@
-"""Audit tool for verifying culture and history notes."""
+"""Audit tool for verifying culture and history notes.
+
+💡 FILE INSIGHT & PURPOSE:
+Quality control and ethical audit engine for the repository.
+Scans cultural drafts, timeline events, literature, and folk songs for vague citations
+(e.g., bare domain names like wikipedia.org), unverified claims, missing consent files,
+and possible unauthorized lyrics/verse copies, producing comprehensive verification reports.
+"""
 
 from __future__ import annotations
 

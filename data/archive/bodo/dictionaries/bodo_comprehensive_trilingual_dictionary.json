@@ -1,0 +1,567 @@
+{
+  "title": "Comprehensive Trilingual Bodo-English-Hindi Lexicon",
+  "total_words": 80,
+  "source": "Compiled from Endle (1884), Narzary (1982), and Bodo Sahitya Sabha Lexica",
+  "vocabulary": [
+    {
+      "bodo": "गस'",
+      "rom": "gwsw",
+      "hi": "मन / हृदय",
+      "en": "heart / mind",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "मेगन",
+      "rom": "megon",
+      "hi": "आँख / नयन",
+      "en": "eye",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "खमा",
+      "rom": "khwma",
+      "hi": "कान / कर्ण",
+      "en": "ear",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "गनथं",
+      "rom": "gonthwng",
+      "hi": "नाक / नासिका",
+      "en": "nose",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "खुगा",
+      "rom": "khuga",
+      "hi": "मुँह / मुख",
+      "en": "mouth",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "हाथुरखि",
+      "rom": "hathurkhi",
+      "hi": "दाँत / दंत",
+      "en": "tooth",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "आखाय",
+      "rom": "akhay",
+      "hi": "हाथ / हस्त",
+      "en": "hand / arm",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "आथिं",
+      "rom": "athing",
+      "hi": "पैर / पाँव",
+      "en": "leg / foot",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "सोलेर",
+      "rom": "swler",
+      "hi": "शरीर / देह",
+      "en": "body",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "खनसाला",
+      "rom": "khonsala",
+      "hi": "बाल / केश",
+      "en": "hair",
+      "cat": "Anatomy"
+    },
+    {
+      "bodo": "मोसौ",
+      "rom": "mwsou",
+      "hi": "गाय / बैल",
+      "en": "cow / ox",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "बोरमा",
+      "rom": "borma",
+      "hi": "बकरी / अजा",
+      "en": "goat",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "सैमा",
+      "rom": "swima",
+      "hi": "कुत्ता / श्वान",
+      "en": "dog",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "मावजि",
+      "rom": "maoji",
+      "hi": "बिल्ली / मार्जार",
+      "en": "cat",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "दाव",
+      "rom": "dao",
+      "hi": "मुर्गी / पक्षी",
+      "en": "bird / fowl",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "ना",
+      "rom": "na",
+      "hi": "मछली / मत्स्य",
+      "en": "fish",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "अमा",
+      "rom": "oma",
+      "hi": "सूअर / वराह",
+      "en": "pig / pork",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "मोस्रि",
+      "rom": "mwsri",
+      "hi": "चींटी / पिपीलिका",
+      "en": "ant",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "एना",
+      "rom": "ena",
+      "hi": "सांप / सर्प",
+      "en": "snake",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "दावदै",
+      "rom": "daodwi",
+      "hi": "अंडा",
+      "en": "egg",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "दावस्रि",
+      "rom": "daosri",
+      "hi": "मैना पक्षी",
+      "en": "myna bird",
+      "cat": "Fauna"
+    },
+    {
+      "bodo": "माइ",
+      "rom": "mai",
+      "hi": "धान की फसल",
+      "en": "paddy plant",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "अवा",
+      "rom": "oa",
+      "hi": "बांस / वेणु",
+      "en": "bamboo",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "दंफां",
+      "rom": "dongfang",
+      "hi": "पेड़ / वृक्ष",
+      "en": "tree",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "बिलाइ",
+      "rom": "bilai",
+      "hi": "पत्ता / पर्ण",
+      "en": "leaf",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "बिबार",
+      "rom": "bibar",
+      "hi": "फूल / पुष्प",
+      "en": "flower",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "फिथाइ",
+      "rom": "fithai",
+      "hi": "फल",
+      "en": "fruit",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "सिजौ",
+      "rom": "sijou",
+      "hi": "पवित्र नागफनी",
+      "en": "sacred euphorbia",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "नारजै",
+      "rom": "narjwi",
+      "hi": "सूखा पटसन पत्ता",
+      "en": "dry jute leaf",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "एमाव",
+      "rom": "emaw",
+      "hi": "औषधीय खमीर पौधा",
+      "en": "herbal yeast cake",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "रोदों",
+      "rom": "rwdwng",
+      "hi": "बेल / लता",
+      "en": "creeper vine",
+      "cat": "Flora"
+    },
+    {
+      "bodo": "हा",
+      "rom": "ha",
+      "hi": "भूमि / ज़मीन",
+      "en": "land / earth",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "दै",
+      "rom": "dui",
+      "hi": "जल / पानी",
+      "en": "water",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अर'",
+      "rom": "or",
+      "hi": "अग्नि / आग",
+      "en": "fire",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "बार",
+      "rom": "bar",
+      "hi": "हवा / पवन",
+      "en": "wind / air",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अख्रां",
+      "rom": "okhrang",
+      "hi": "आकाश / गगन",
+      "en": "sky / ether",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "सान",
+      "rom": "san",
+      "hi": "सूर्य / धूप",
+      "en": "sun / sunshine",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अखाफोर",
+      "rom": "okhafor",
+      "hi": "चंद्रमा / चाँद",
+      "en": "moon",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "हाजो",
+      "rom": "hajw",
+      "hi": "पहाड़ / पर्वत",
+      "en": "mountain / hill",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "दैमा",
+      "rom": "dwima",
+      "hi": "नदी / सरिता",
+      "en": "river",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "दैसा",
+      "rom": "dwisa",
+      "hi": "झरना / छोटी नदी",
+      "en": "brook / stream",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "अखा",
+      "rom": "okha",
+      "hi": "वर्षा / बारिश",
+      "en": "rain",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "दैबाना",
+      "rom": "dwibana",
+      "hi": "बाढ़ / जलप्लावन",
+      "en": "flood",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "हाग्रामा",
+      "rom": "hagrama",
+      "hi": "जंगल / अरण्य",
+      "en": "forest / jungle",
+      "cat": "Nature"
+    },
+    {
+      "bodo": "आइ",
+      "rom": "ai",
+      "hi": "माता / माँ",
+      "en": "mother",
+      "cat": "Society"
+    },
+    {
+      "bodo": "आफा",
+      "rom": "afa",
+      "hi": "पिता / पिताश्री",
+      "en": "father",
+      "cat": "Society"
+    },
+    {
+      "bodo": "फिसा",
+      "rom": "fisa",
+      "hi": "बच्चा / संतान",
+      "en": "child",
+      "cat": "Society"
+    },
+    {
+      "bodo": "बिदा",
+      "rom": "bida",
+      "hi": "बड़ा भाई",
+      "en": "elder brother",
+      "cat": "Society"
+    },
+    {
+      "bodo": "फंबाय",
+      "rom": "fwmbay",
+      "hi": "छोटा भाई",
+      "en": "younger brother",
+      "cat": "Society"
+    },
+    {
+      "bodo": "बिब'",
+      "rom": "bibw",
+      "hi": "बड़ी बहन",
+      "en": "elder sister",
+      "cat": "Society"
+    },
+    {
+      "bodo": "आगै",
+      "rom": "agwi",
+      "hi": "छोटा भाई/बहन",
+      "en": "younger sibling",
+      "cat": "Society"
+    },
+    {
+      "bodo": "हिनजाव",
+      "rom": "hinjao",
+      "hi": "महिला / पत्नी",
+      "en": "woman / wife",
+      "cat": "Society"
+    },
+    {
+      "bodo": "हौवा",
+      "rom": "houwa",
+      "hi": "पुरुष / पति",
+      "en": "man / husband",
+      "cat": "Society"
+    },
+    {
+      "bodo": "बिफा",
+      "rom": "bifa",
+      "hi": "उसका पिता",
+      "en": "his/her father",
+      "cat": "Society"
+    },
+    {
+      "bodo": "बिसि",
+      "rom": "bisi",
+      "hi": "उसकी पत्नी",
+      "en": "his wife",
+      "cat": "Society"
+    },
+    {
+      "bodo": "गाम",
+      "rom": "gam",
+      "hi": "गाँव / ग्राम",
+      "en": "village",
+      "cat": "Society"
+    },
+    {
+      "bodo": "हारि",
+      "rom": "hari",
+      "hi": "जाति / समुदाय",
+      "en": "nation / community",
+      "cat": "Society"
+    },
+    {
+      "bodo": "जानो",
+      "rom": "janw",
+      "hi": "खाना",
+      "en": "to eat",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "लोंनो",
+      "rom": "lwngnw",
+      "hi": "पीना",
+      "en": "to drink",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "थांनो",
+      "rom": "thangnw",
+      "hi": "जाना",
+      "en": "to go",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "फैनो",
+      "rom": "fwinw",
+      "hi": "आना",
+      "en": "to come",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "नुनों",
+      "rom": "nunw",
+      "hi": "देखना",
+      "en": "to see",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "खोनासंनो",
+      "rom": "khwnasangnw",
+      "hi": "सुनना",
+      "en": "to listen",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "मोसानो",
+      "rom": "mwsanw",
+      "hi": "नाचना",
+      "en": "to dance",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "रोजाबनो",
+      "rom": "rwzabnw",
+      "hi": "गाना गाना",
+      "en": "to sing",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "दानो",
+      "rom": "danw",
+      "hi": "कपड़ा बुनना",
+      "en": "to weave",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "उन्दुनों",
+      "rom": "undunw",
+      "hi": "सोना / निद्रा",
+      "en": "to sleep",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "मावनो",
+      "rom": "maonw",
+      "hi": "काम करना",
+      "en": "to work",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "बुंनो",
+      "rom": "bungnw",
+      "hi": "बोलना / कहना",
+      "en": "to speak",
+      "cat": "Verbs"
+    },
+    {
+      "bodo": "मोजां",
+      "rom": "mwjang",
+      "hi": "अच्छा / सुंदर",
+      "en": "good / fine",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गाज्रि",
+      "rom": "gajri",
+      "hi": "बुरा / ख़राब",
+      "en": "bad / evil",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गोजोन",
+      "rom": "gwojwn",
+      "hi": "शांत / पवित्र",
+      "en": "peaceful / blessed",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "रंजानाय",
+      "rom": "rwangjanay",
+      "hi": "प्रसन्नता / आनंद",
+      "en": "joy / festive",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गोजौ",
+      "rom": "gwojwo",
+      "hi": "ऊँचा",
+      "en": "high / tall",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गाहाय",
+      "rom": "gahay",
+      "hi": "नीचा / गहरा",
+      "en": "low / deep",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गेबेंग",
+      "rom": "gebeng",
+      "hi": "सत्य / सही",
+      "en": "truthful / right",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गोथाव",
+      "rom": "gwthao",
+      "hi": "स्वादिष्ट",
+      "en": "delicious",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गोखा",
+      "rom": "gwkha",
+      "hi": "कड़वा / तीता",
+      "en": "bitter",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गोजां",
+      "rom": "gwojang",
+      "hi": "ठंडा / शीतल",
+      "en": "cold / chilly",
+      "cat": "Descriptors"
+    },
+    {
+      "bodo": "गुदुं",
+      "rom": "gudung",
+      "hi": "गर्म / उष्ण",
+      "en": "hot / warm",
+      "cat": "Descriptors"
+    }
+  ]
+}

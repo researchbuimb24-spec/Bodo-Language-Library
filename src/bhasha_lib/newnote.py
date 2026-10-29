@@ -1,4 +1,10 @@
-"""CLI and helper to create skeleton culture markdown notes."""
+"""CLI and helper to create skeleton culture markdown notes.
+
+💡 FILE INSIGHT & PURPOSE:
+Scaffolding utility (`create_new_note`) and CLI tool for creating valid cultural Markdown notes.
+Generates compliant skeleton YAML frontmatter (with category, title, region, and default `needs_check` confidence)
+to prevent formatting errors when contributors draft new cultural or historical articles.
+"""
 
 from __future__ import annotations
 

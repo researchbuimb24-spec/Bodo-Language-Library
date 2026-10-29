@@ -1,4 +1,10 @@
-"""Culture metadata loading and semantic search module."""
+"""Culture metadata loading and semantic search module.
+
+💡 FILE INSIGHT & PURPOSE:
+Parses, validates, and ingests cultural Markdown files (`data/archive/bodo/culture/*.md`)
+into SQLite `culture_items`. Validates frontmatter categories (dance, attire, food, instrument,
+festival, ritual), enforces citation tracking, and powers the `related()` query linking words to culture.
+"""
 
 from __future__ import annotations
 
@@ -279,6 +285,25 @@ def load_culture_dir(
         year_end_raw = header.get("year_end")
         confidence_raw = header.get("confidence")
 
+        date_precision_raw = header.get("date_precision")
+        people_raw = header.get("people")
+        places_raw = header.get("places")
+        organizations_raw = header.get("organizations")
+        books_raw = header.get("books")
+        primary_sources_raw = header.get("primary_sources")
+        secondary_sources_raw = header.get("secondary_sources")
+        source_url_raw = header.get("source_url") or header.get("url")
+        license_raw = header.get("license")
+
+        def _fmt_field(v: Any) -> str | None:
+            if v is None:
+                return None
+            if isinstance(v, (list, tuple, set)):
+                items = [str(x).strip() for x in v if str(x).strip()]
+                return ", ".join(items) if items else None
+            s = str(v).strip()
+            return s if s else None
+
         year_start = None
         if year_start_raw is not None:
             try:
@@ -296,6 +321,21 @@ def load_culture_dir(
         confidence = (
             str(confidence_raw).strip() if confidence_raw else "needs_check"
         )
+        date_precision = _fmt_field(date_precision_raw) or (
+            "unknown"
+            if year_start is None
+            else "range"
+            if (year_end is not None and year_end != year_start)
+            else "exact"
+        )
+        people_val = _fmt_field(people_raw)
+        places_val = _fmt_field(places_raw)
+        orgs_val = _fmt_field(organizations_raw)
+        books_val = _fmt_field(books_raw)
+        primary_val = _fmt_field(primary_sources_raw)
+        secondary_val = _fmt_field(secondary_sources_raw)
+        url_val = _fmt_field(source_url_raw)
+        license_val = _fmt_field(license_raw)
 
         verified_on_val: str | None = None
         if confidence.lower() == "verified":
@@ -401,7 +441,9 @@ def load_culture_dir(
             cursor.execute(
                 """
                 SELECT id, description, region, related_words,
-                       year_start, year_end, confidence, verified_on, source_id
+                       year_start, year_end, confidence, verified_on, source_id,
+                       date_precision, people, places, organizations, books,
+                       primary_sources, secondary_sources, source_url, license
                 FROM culture_items
                 WHERE title = ? AND category = ?
                 """,
@@ -419,6 +461,15 @@ def load_culture_dir(
                 exist_conf = existing["confidence"] or "needs_check"
                 exist_vo = existing["verified_on"] or None
                 exist_src = existing["source_id"]
+                exist_prec = existing["date_precision"] or "exact"
+                exist_people = existing["people"] or ""
+                exist_places = existing["places"] or ""
+                exist_orgs = existing["organizations"] or ""
+                exist_books = existing["books"] or ""
+                exist_pri = existing["primary_sources"] or ""
+                exist_sec = existing["secondary_sources"] or ""
+                exist_url = existing["source_url"] or ""
+                exist_lic = existing["license"] or ""
 
                 cur_desc = description or ""
                 cur_reg = region_val or ""
@@ -428,6 +479,15 @@ def load_culture_dir(
                 cur_conf = confidence
                 cur_vo = verified_on_val or None
                 cur_src = source_id
+                cur_prec = date_precision
+                cur_people = people_val or ""
+                cur_places = places_val or ""
+                cur_orgs = orgs_val or ""
+                cur_books = books_val or ""
+                cur_pri = primary_val or ""
+                cur_sec = secondary_val or ""
+                cur_url = url_val or ""
+                cur_lic = license_val or ""
 
                 is_changed = (
                     exist_desc != cur_desc
@@ -438,6 +498,15 @@ def load_culture_dir(
                     or exist_conf != cur_conf
                     or exist_vo != cur_vo
                     or exist_src != cur_src
+                    or exist_prec != cur_prec
+                    or exist_people != cur_people
+                    or exist_places != cur_places
+                    or exist_orgs != cur_orgs
+                    or exist_books != cur_books
+                    or exist_pri != cur_pri
+                    or exist_sec != cur_sec
+                    or exist_url != cur_url
+                    or exist_lic != cur_lic
                 )
 
                 if is_changed:
@@ -451,7 +520,17 @@ def load_culture_dir(
                             year_end = ?,
                             confidence = ?,
                             verified_on = ?,
-                            source_id = ?
+                            source_id = ?,
+                            date_precision = ?,
+                            people = ?,
+                            places = ?,
+                            organizations = ?,
+                            books = ?,
+                            primary_sources = ?,
+                            secondary_sources = ?,
+                            source_url = ?,
+                            license = ?,
+                            updated_at = datetime('now')
                         WHERE id = ?
                         """,
                         (
@@ -463,6 +542,15 @@ def load_culture_dir(
                             confidence,
                             verified_on_val,
                             source_id,
+                            date_precision,
+                            people_val,
+                            places_val,
+                            orgs_val,
+                            books_val,
+                            primary_val,
+                            secondary_val,
+                            url_val,
+                            license_val,
                             item_id,
                         ),
                     )
@@ -483,9 +571,23 @@ def load_culture_dir(
                         year_start,
                         year_end,
                         confidence,
-                        verified_on
+                        verified_on,
+                        date_precision,
+                        people,
+                        places,
+                        organizations,
+                        books,
+                        primary_sources,
+                        secondary_sources,
+                        source_url,
+                        license,
+                        created_at,
+                        updated_at
                     )
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    VALUES (
+                        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,
+                        datetime('now'), datetime('now')
+                    )
                     """,
                     (
                         category,
@@ -499,6 +601,15 @@ def load_culture_dir(
                         year_end,
                         confidence,
                         verified_on_val,
+                        date_precision,
+                        people_val,
+                        places_val,
+                        orgs_val,
+                        books_val,
+                        primary_val,
+                        secondary_val,
+                        url_val,
+                        license_val,
                     ),
                 )
                 if cursor.lastrowid is None:
@@ -543,14 +654,19 @@ def related(
             SELECT
                 id, category, title, description, region,
                 related_words, source_id, media_path,
-                year_start, year_end, confidence, verified_on
+                year_start, year_end, confidence, verified_on,
+                date_precision, people, places, organizations, books,
+                primary_sources, secondary_sources, source_url, license
             FROM culture_items
             WHERE title LIKE ? ESCAPE '\\'
                OR description LIKE ? ESCAPE '\\'
                OR related_words LIKE ? ESCAPE '\\'
+               OR people LIKE ? ESCAPE '\\'
+               OR places LIKE ? ESCAPE '\\'
+               OR organizations LIKE ? ESCAPE '\\'
             ORDER BY id ASC
             """,
-            (pattern, pattern, pattern),
+            (pattern, pattern, pattern, pattern, pattern, pattern),
         )
         for row in cursor.fetchall():
             culture_items.append(dict(row))

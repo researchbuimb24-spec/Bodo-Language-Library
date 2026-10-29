@@ -1,0 +1,57 @@
+{
+  "title": "Boro Ramayana: The Epic of Rama in the Bodo Language",
+  "epic": "Ramayana (रामायण)",
+  "translators": "Jyanendra Basumatary (Assam Publication Board edition), Bhaben Narzary & Traditional Folk Rhapsodists",
+  "structure": "Seven Kandas (सप्तकाण्ड)",
+  "kandas": [
+    {
+      "kanda": "आदि काण्ड (Adi Kanda / Bala Kanda)",
+      "summary_bodo": "राजा दोसोरोथनि पुथ्रो जोनोम, राम, लोखोन, भोरोत आरो सोथ्रुगोननि जोनोम। बिस्वामित्र मुनिनि जोंजों दावबायनाय, थाथोका दैथ्यखौ बुथारनाय आरो सीतानि हाबा (स्वयंवर)।",
+      "summary_en": "Birth of Rama, Lakshmana, Bharata and Shatrughna to King Dasharatha. Departure with Sage Vishvamitra, slaying of demoness Tataka, breaking of Shiva's bow and marriage to Sita."
+    },
+    {
+      "kanda": "अयोध्या काण्ड (Ayodhya Kanda)",
+      "summary_bodo": "राजा दोसोरोथनि रामखौ राजा खालामनो लुबैनाय। कैकेयीनि दाबि आरो रामनि जिब्रै बोसोरनि हाग्रामा दावबायनाय (बोनबास)। दोसोरोथनि जिउ गोमानाय।",
+      "summary_en": "Preparations for Rama's coronation, Queen Kaikeyi's boons, Rama's 14-year forest exile, loyalty of Lakshmana and Sita, and passing of King Dasharatha."
+    },
+    {
+      "kanda": "अरण्य काण्ड (Aranya Kanda)",
+      "summary_bodo": "पञ्चवतीयाव न लुनानै थानाय। सुरपनखानि खुगा-खनथं दाननाय। सोरनानि मैखुनौ नुनानै रामनि थांनाय आरो लंकायाव राबोना सिताखौ खावना लानानै थांनाय।",
+      "summary_en": "Dwelling in Panchavati forest, Surpanakha's mutilation, the golden deer illusion, and the abduction of Sita by Ravana, king of Lanka."
+    },
+    {
+      "kanda": "किष्किन्धा काण्ड (Kishkindha Kanda)",
+      "summary_bodo": "राम आरो सुग्रीवनि मोजां मोन्नाय (लोगो जानाय)। सुग्रीवनि बिदा बालिखौ बुथारनाय। सीताखौ नागिरनो थाखाय हनुमाननि गिबि दावबायनाय।",
+      "summary_en": "Alliance between Rama and Sugriva, slaying of Vali, and dispatching of the Vanara armies led by Hanuman to search for Sita."
+    },
+    {
+      "kanda": "सुन्दर काण्ड (Sundara Kanda)",
+      "summary_bodo": "हनुमाननि लैथो बारनानै लंकायाव सौफैनाय। अशोक बाथियाव सिताखौ नुफैनाय। लंका नगरिखौ अर सानाय आरो रामनाव सितानि रादाब लाबोनाय।",
+      "summary_en": "Hanuman's heroic leap across the ocean to Lanka, locating Sita in the Ashoka grove, delivering Rama's ring, burning of Lanka, and returning with Sita's gem."
+    },
+    {
+      "kanda": "युद्ध काण्ड / लंका काण्ड (Yuddha Kanda)",
+      "summary_bodo": "लैथो सायाव दालां (सेतु) लुनाय। राम आरो राबोननि गेजेराव गिदिर दाओहा। राबोनखौ बुथारनाय, सिताखौ रैखा खालामनाय आरो अयोध्यायाव गोजोनै गिदिंगानाय।",
+      "summary_en": "Construction of Rama Setu bridge, the great war against Ravana and his forces, slaying of Ravana, rescue of Sita, and victorious return to Ayodhya."
+    },
+    {
+      "kanda": "उत्तर काण्ड (Uttara Kanda)",
+      "summary_bodo": "अयोध्यायाव रामनि राज्याभिषेक (रामराज्य)। लब आरो कुश पुथ्रो मोन्नाय। वाल्मीकि मुनिनि आश्रम आरो सितानि हामाव हाबलांनाय।",
+      "summary_en": "Coronation of Rama, establishment of Ramrajya, birth of Lava and Kusha in Valmiki's hermitage, and Sita's return to Mother Earth."
+    }
+  ],
+  "specimen_passages": [
+    {
+      "context": "Rama's obedience to parental vow (पितृ-सत्य पालन)",
+      "bodo_dev": "आफानि बाथ्राखौ फालिनानै आं हाग्रामायाव थांगोन,\nजिब्रै बोसोर हाग्रामायाव गोजोनै थागोन आं।\nसंसारआव धोरमोनि सायाव जेबो गैया,\nआफानि रावखौ मानिनायनि सायाव सिमां गैया।",
+      "bodo_rom": "Afani bathrakhwo falinanwi ang hagramayao thanggwn,\nJibrwi bwswr hagramayao gwojwnwi thagwn ang.\nSwnsarao dhormoni sayao jebw gwiya,\nAfani raokhwo maninayni sayao simang gwiya.",
+      "english": "In faithful fulfillment of my father's solemn word, I shall depart for the deep woods,\nFourteen years shall I dwell content amidst the tranquil wilderness.\nIn all this mortal world, naught transcends sacred righteousness (Dharma),\nAnd no virtue shines brighter than filial devotion to truth."
+    },
+    {
+      "context": "Hanuman's devotion in Lanka (हनुमाननि आरज)",
+      "bodo_dev": "आं प्रभु रामनि साखोर, आंनि मुं हनुमान,\nलैथो बारनानै फैबाय आं मैनाव सिताखौ नागिरनो।\nगिया बाबु, प्रभु राम फैगोन दाओहा जों लंकायाव,\nदुखु गासिबो गोजानाव थांगोन नोंनि।",
+      "bodo_rom": "Ang probhu Ramni sakhor, angni mung Honuman,\nLwithw barnanwi fwibay ang Mainao Sitakhwo nagirnw.\nGiya babu, probhu Ram fwigwn daoha jwng Lankayao,\nDukhu gasibw gwojanao thanggwn nwhnni.",
+      "english": "I am the humble servant of Lord Rama, my name is Hanuman,\nLeaping across the boundless ocean have I arrived to seek Mother Sita.\nFear not, Mother! Lord Rama shall arrive in righteous valor at Lanka's gates,\nAnd every sorrow that burdens thy gentle spirit shall be banished forever."
+    }
+  ]
+}

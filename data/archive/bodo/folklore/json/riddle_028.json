@@ -1,0 +1,17 @@
+{
+  "id": "RID-028",
+  "theme": "nature_celestial",
+  "theme_title_en": "Theme 1: Elements of Nature & Celestial Phenomenon",
+  "theme_title_hi": "विषय 1: प्राकृतिक तत्व और खगोलीय घटनाएं",
+  "theme_title_bodo": "थिम 1: मिथिंगानि बेसाद आरो अखांनि फाव",
+  "question_bodo": "अखा फैबा गोलोम जायो, सानदुं फैबा गोरा जायो; हालुवानि नांगोलआव नाङो",
+  "question_roman": "Okha fwyba gwlwm jayw, sandung fwyba gora jayw; haluwani nangolao nangw",
+  "question_hi": "पानी गिरे तो कीचड़ बन जाता है, धूप निकले तो पत्थर सा कड़ा हो जाता है; किसान का हल इसमें चलता है। बताओ क्या?",
+  "question_en": "Soft and pliable when rained upon, hard as rock when baked in the sun; tilled by plowmen. What is it?",
+  "answer_bodo": "हादा / हा",
+  "answer_roman": "Hada / Ha",
+  "answer_hi": "मिट्टी / कीचड़",
+  "answer_en": "Soil / Clay Mud",
+  "cultural_note": "The fertile alluvial soil of the Assam plains.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

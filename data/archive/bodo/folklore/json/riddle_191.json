@@ -1,0 +1,17 @@
+{
+  "id": "RID-191",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "हायाव थोंस्रायै खोनाय बिफां; म्वसौखौ दोरिजों खोयो",
+  "question_roman": "Hayao thongsnraywi khwnay bifang; mwsoukhw dorijwng khwyw",
+  "question_hi": "ज़मीन में गाड़ा गया मजबूत लकड़ी का खूंटा; जिससे रस्सी बांधकर गाय-बैलों को चरने के लिए छोड़ते हैं। बताओ क्या?",
+  "question_en": "Sturdy wooden peg driven deep into meadow turf tethering grazing livestock safely. What is it?",
+  "answer_bodo": "खुन्था / म्वसौ खुन्था",
+  "answer_roman": "Khuntha / Mwsou khuntha",
+  "answer_hi": "खूंटा (पशु बांधने का)",
+  "answer_en": "Cattle Tethering Peg",
+  "cultural_note": "Found in every pasture.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RID-189",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "बिगुरनि दोरि, बारआव सोदोब खालामो; हालुवानि म्वसौखौ सालायो",
+  "question_roman": "Bigurni dori, barao swdwb khalamw; haluwani mwsoukhw salayw",
+  "question_hi": "चमड़े की पतली चाबुक, हवा में लहराओ तो सटाक की आवाज करती है; बैलों को सीधा खेत में चलाती है। बताओ क्या?",
+  "question_en": "Leather whip snapping loudly in the air, urging the plow team through heavy clay. What is it?",
+  "answer_bodo": "साबुक",
+  "answer_roman": "Sabuk",
+  "answer_hi": "चाबुक / कोड़ा",
+  "answer_en": "Bullock Whip",
+  "cultural_note": "Used sparingly by plowmen.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

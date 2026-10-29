@@ -1,0 +1,17 @@
+{
+  "id": "RID-013",
+  "theme": "nature_celestial",
+  "theme_title_en": "Theme 1: Elements of Nature & Celestial Phenomenon",
+  "theme_title_hi": "विषय 1: प्राकृतिक तत्व और खगोलीय घटनाएं",
+  "theme_title_bodo": "थिम 1: मिथिंगानि बेसाद आरो अखांनि फाव",
+  "question_bodo": "सिंआव खामो, सायाव मावयो; हाया सिरि-सिरि खुरखायो",
+  "question_roman": "Sinao khamw, sayao mawyw; haya siri-siri khurkhayw",
+  "question_hi": "नीचे हलचल मचती है और ऊपर सब कांप उठता है; ज़मीन थर-थर डोलने लगती है। बताओ क्या?",
+  "question_en": "Stirs silently deep below, shaking everything above; making the solid earth tremble. What is it?",
+  "answer_bodo": "हा खांनाय",
+  "answer_roman": "Ha khangnay",
+  "answer_hi": "भूकंप / भूचाल",
+  "answer_en": "Earthquake",
+  "cultural_note": "Frequent in the seismically active eastern Himalayan belt.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

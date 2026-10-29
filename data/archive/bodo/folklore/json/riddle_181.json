@@ -1,0 +1,17 @@
+{
+  "id": "RID-181",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "हाजोनि दैखौ हाबायाव लाबोयो; हायाव खुरनाय लामा",
+  "question_roman": "Hajoni dwikhw habayao labwyw; hayao khurnay lama",
+  "question_hi": "पहाड़ों के निर्मल जल को खेतों तक ले आती है; ज़मीन पर खोदी गई लंबी जल-धारा। बताओ क्या?",
+  "question_en": "Community canal tapping mountain brooks to irrigate parched winter and summer fields. What is it?",
+  "answer_bodo": "दै-जंला / दं-बाँध",
+  "answer_roman": "Dwi-jongla / Dong-bandh",
+  "answer_hi": "नहर / सिंचाई नाली",
+  "answer_en": "Irrigation Canal (Dong)",
+  "cultural_note": "The traditional *Dong-Bandh* indigenous water system.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

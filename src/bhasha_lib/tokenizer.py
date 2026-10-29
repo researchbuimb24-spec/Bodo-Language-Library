@@ -1,4 +1,10 @@
-"""Tokenizer and text normalization utilities for Bodo and Indian languages."""
+"""Tokenizer and text normalization utilities for Bodo and Indian languages.
+
+💡 FILE INSIGHT & PURPOSE:
+Provides language-aware tokenization and normalization for Bodo texts.
+Features `tokenize()` for modern Devanagari script (preserving native high-tone markers like Bodo apostrophe / '),
+`tokenize_roman()` for 19th-century Latin-script books, and `normalize()` for Unicode NFC cleaning.
+"""
 
 from __future__ import annotations
 

@@ -1,0 +1,46 @@
+{
+  "title": "Bodo Folktales, Myths & Oral Storytelling Heritage",
+  "language": "Bodo (brx)",
+  "stories": [
+    {
+      "id": "tale_1",
+      "title_dev": "मैनाव बुरैनि सल'",
+      "title_en": "The Legend of Mother Mainao (Goddess of the Harvest)",
+      "category": "mythological",
+      "synopsis": "The story of how goddess Mainao departed from heaven to live amidst the paddy fields of humble human cultivators.",
+      "narrative": "In ancient days when hunger stalked the primeval plains, the great progenitor Bathou Bwrai asked Goddess Mainao to descend upon the earth. Mainao hid herself in the heart of the wild rice stalks. When a virtuous poor peasant tended the field with reverence and offered pure mountain water, Mainao revealed her glowing golden countenance, promising never to abandon a hearth where peace, humility, and truthful speech prevail. Since that day, every Bodo homestead reserves the sacred north-eastern granary altar for Mother Mainao."
+    },
+    {
+      "id": "tale_2",
+      "title_dev": "सान्दौ बलियानि जोनोम",
+      "title_en": "The Legend of Sandw Bwlia (The Divine Archer)",
+      "category": "heroic_legend",
+      "synopsis": "The epic narrative of Sandw Bwlia, the mythical invincible warrior possessing an arrow that never missed its prey.",
+      "narrative": "Sandw Bwlia was born with miraculous strength under the sacred Sijou tree. When monstrous predatory spirits and wild beasts laid siege to the peaceful settlements along the foothills, Sandw carved an enormous longbow from a mountain bamboo and fashioned arrows tipped with sacred copper. With single shots spanning across seven mountain ridges, he banished the terrorizing demons, securing peace for the early settlers. His feats are celebrated in warrior ballads during festival bonfires."
+    },
+    {
+      "id": "tale_3",
+      "title_dev": "सियाल आरो गैया",
+      "title_en": "The Clever Fox and the Alligator",
+      "category": "animal_fable",
+      "synopsis": "Humorous trickster fable demonstrating how mental quickness overcomes raw physical brute force.",
+      "narrative": "A greedy alligator lurked beneath the shallows of the river, waiting to catch a clever fox whenever he came to drink. When the alligator seized the fox's leg, the fox laughed aloud and mocked: 'Oh foolish alligator! You have clamped onto a dry mangrove root thinking it is my leg!' Hearing this confident laughter, the gullible alligator released the leg to bite higher, allowing the nimble fox to leap onto the dry bank with mocking laughter. Bodo elders narrate this to teach children prudence under crisis."
+    },
+    {
+      "id": "tale_4",
+      "title_dev": "दौदिनि आरो खेराइ मोसानाय",
+      "title_en": "The Origin of the Doudini and the Kherai Dance",
+      "category": "ritual_myth",
+      "synopsis": "The celestial vision that taught Bodo shamanic priestesses the 18 steps of the sacred sword dance.",
+      "narrative": "When a terrible pestilence afflicted the ancient settlements, the chief priest (Deuri) prayed before the sacred Sijou plant for seven days without water. On the seventh night, the divine goddess entered the trance of a pure maiden (Doudini). Rising in ecstatic harmony to the beats of the Kham drum and Siphung flute, she grasped the sacrificial sword (Dao-khal) and brass plate, dancing with miraculous balance atop the sharp edge without shedding a drop of blood. As her feet completed the 18 cosmic circuits, the illness evaporated from the land."
+    },
+    {
+      "id": "tale_5",
+      "title_dev": "दावखो आरो हिंखा",
+      "title_en": "The Celestial Swan and the Handloom Agor Motifs",
+      "category": "folk_etiology",
+      "synopsis": "How traditional geometric weaving patterns (*Agor*) were gifted by nature to young weaver girls.",
+      "narrative": "A young orphaned maiden sat beside her family loom weeping because she could not weave fine clothes like the wealthy queens. A flock of celestial wild geese alighted beside her lotus pond. Moved by her purity, the birds spread their multicolored feathers across the warp, displaying concentric diamond stars (*Hajw Agor*), tortoise shells, and climbing vines. Memorizing the patterns, the maiden woven an Aronai so dazzling that the king himself bowed to honor her divine craftsmanship."
+    }
+  ]
+}

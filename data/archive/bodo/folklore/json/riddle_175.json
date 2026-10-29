@@ -1,0 +1,17 @@
+{
+  "id": "RID-175",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "गांखं दंब्लाबो बिरनो रोंङा, लोहानि खुगा; धनुनि प्राय बिरलाङो",
+  "question_roman": "Gankhong dwblabo birnw ronga, lohani khuga; dhwnuni fray birlangw",
+  "question_hi": "पूंछ में पंख लगे हैं पर पक्षी नहीं, लोहे की पैनी नोक; कमान से छूटते ही बिजली की तरह उड़ता है। बताओ क्या?",
+  "question_en": "Feathered shaft tipped with an iron tooth, speeding silently to strike distant game. What is it?",
+  "answer_bodo": "थिर",
+  "answer_roman": "Thir",
+  "answer_hi": "तीर / बाण",
+  "answer_en": "Arrow",
+  "cultural_note": "Shaft carved from seasoned reed.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

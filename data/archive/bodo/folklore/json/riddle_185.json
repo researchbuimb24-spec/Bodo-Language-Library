@@ -1,0 +1,17 @@
+{
+  "id": "RID-185",
+  "theme": "agriculture_fishing",
+  "theme_title_en": "Theme 6: Agriculture, Tools, Fishing & Hunting",
+  "theme_title_hi": "विषय 6: कृषि, औजार, मछली पकड़ना और आखेट",
+  "theme_title_bodo": "थिम 6: हालुवा, आबानि बेसाद आरो ना हमनाय",
+  "question_bodo": "अवानि फिसा खखाय, खंखोलायाव खोयो; हमनाय नाफोरखौ सिंआव दोनो",
+  "question_roman": "Oani fisa khokhay, khwnkhwlayao khwyw; hwmnay naforkhw sinao dwnw",
+  "question_hi": "बांस की छोटी टोकरी जिसे मछुआरा कमर में बांधता है; पकड़ी गई ताज़ी मछलियों को इसमें डालता जाता है। बताओ क्या?",
+  "question_en": "Woven bamboo basket slung over the fisherman's hip storing caught river fish. What is it?",
+  "answer_bodo": "खबाइ",
+  "answer_roman": "Khobai",
+  "answer_hi": "खलोई (मछली रखने की छोटी टोकरी)",
+  "answer_en": "Fish Creel Basket (Khobai)",
+  "cultural_note": "Standard fishing accessory.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

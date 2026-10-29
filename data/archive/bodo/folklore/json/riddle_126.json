@@ -1,0 +1,17 @@
+{
+  "id": "RID-126",
+  "theme": "household_tools",
+  "theme_title_en": "Theme 4: Traditional Household, Kitchen & Gastronomy",
+  "theme_title_hi": "विषय 4: पारंपरिक गृहस्थी, रसोई और व्यंजन",
+  "theme_title_bodo": "थिम 4: न'खरनि बेसाद, संग्रा-जाग्रा आरो जामुं",
+  "question_bodo": "अवाजों बानायनाय गोरा सालाय; हरआव दरजाखौ हमनानै दोनो",
+  "question_roman": "Oajwng banaynay gora salay; horao dorjakhw hwmnanwi dwnw",
+  "question_hi": "बांस या लकड़ी की मजबूत पट्टी; रात को दरवाजे के पीछे लगा दो तो कोई अंदर नहीं आ सकता। बताओ क्या?",
+  "question_en": "Heavy wooden beam sliding across the entrance; keeps the family safe behind shut doors all night. What is it?",
+  "answer_bodo": "दरजा सालाय / खापथि",
+  "answer_roman": "Dorja salay / Khapthi",
+  "answer_hi": "दरवाजे की सिटकनी / आगल",
+  "answer_en": "Door Bolt",
+  "cultural_note": "Secures rural bamboo homesteads.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

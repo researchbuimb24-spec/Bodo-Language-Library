@@ -1,0 +1,17 @@
+{
+  "id": "RID-158",
+  "theme": "weaving_attire",
+  "theme_title_en": "Theme 5: Handloom, Weaving & Traditional Attire",
+  "theme_title_hi": "विषय 5: हथकरघा, वस्त्र और पारंपरिक परिधान",
+  "theme_title_bodo": "थिम 5: दावनाय-लुनाय आरो गाननाय-जोमनाय",
+  "question_bodo": "आथिं बाहोबा खुनखौ गोजौ-गाहाय खालामो; दावनायाव मोजां जायो",
+  "question_roman": "Athing bahwba khunkhw gojou-gahay khalamw; daonayao mwjang jayw",
+  "question_hi": "पैर दबाओ तो ताने के धागे ऊपर-नीचे होते हैं; जिससे ढरकी आसानी से आर-पार निकल जाती है। बताओ क्या?",
+  "question_en": "Foot treadle shifting alternating sets of warp threads up and down to create the weaving shed. What is it?",
+  "answer_bodo": "आथिंनि थामखि",
+  "answer_roman": "Athingni thamkhi",
+  "answer_hi": "पायदान (करघे का)",
+  "answer_en": "Loom Treadle",
+  "cultural_note": "Operated with the weaver's feet.",
+  "source": "Bodo Folk Literature & Oral Traditions (Bodo Sahitya Sabha)"
+}

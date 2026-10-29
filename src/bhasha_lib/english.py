@@ -1,4 +1,10 @@
-"""English word detection and filtering utilities for Latin-script extraction."""
+"""English word detection and filtering utilities for Latin-script extraction.
+
+💡 FILE INSIGHT & PURPOSE:
+Filters English prose and loanword noise from bilingual historical books (Anderson 1895).
+Crucially defines `BODO_PROTECTED_WORDS` (native words like ai, mai, dui, ha, no, so, be)
+and English inflection rules to prevent native Bodo words from being incorrectly discarded.
+"""
 
 from __future__ import annotations
 

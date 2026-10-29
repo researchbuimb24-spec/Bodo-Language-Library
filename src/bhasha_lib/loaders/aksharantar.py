@@ -1,4 +1,10 @@
-"""Loader for the AI4Bharat Aksharantar Bodo transliteration dataset."""
+"""Loader for the AI4Bharat Aksharantar Bodo transliteration dataset.
+
+💡 FILE INSIGHT & PURPOSE:
+Ingests AI4Bharat Aksharantar dataset zip archives (`brx.zip`) into SQLite.
+Unpacks JSON/CSV transliteration pairs in-memory, validates Devanagari script coverage,
+creates the dataset source record, and batch-inserts words with their Roman transliterations.
+"""
 
 from __future__ import annotations
 
